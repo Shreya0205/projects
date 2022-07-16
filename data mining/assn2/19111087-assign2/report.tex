@@ -1,0 +1,255 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{fullpage}
+\usepackage{amsmath}
+\usepackage{url}
+\usepackage{float}
+\usepackage{mathrsfs}
+\usepackage{scalerel}
+\usepackage{subcaption}
+
+
+%----------------------------
+\usepackage{here}
+%\documentclass[11pt, english]{article}
+%\usepackage{graphicx}
+\usepackage[colorlinks=true, linkcolor=blue]{hyperref}
+\usepackage[english]{babel}
+\selectlanguage{english}
+%\usepackage[utf8]{inputenc}
+\usepackage[svgnames]{xcolor}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{afterpage}
+\pagestyle{plain}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+%\lstset{language=R,
+%    basicstyle=\small\ttfamily,
+%   stringstyle=\color{DarkGreen},
+%    otherkeywords={0,1,2,3,4,5,6,7,8,9},
+%    morekeywords={TRUE,FALSE},
+%    deletekeywords={data,frame,length,as,character},
+%    keywordstyle=\color{blue},
+%    commentstyle=\color{DarkGreen},
+%}
+
+\lstset{frame=tb,
+language=R,
+aboveskip=3mm,
+belowskip=3mm,
+showstringspaces=false,
+columns=flexible,
+numbers=none,
+keywordstyle=\color{blue},
+numberstyle=\tiny\color{gray},
+commentstyle=\color{dkgreen},
+stringstyle=\color{mauve},
+breaklines=true,
+breakatwhitespace=true,
+tabsize=3
+}
+
+
+
+
+\textheight=21cm
+\textwidth=17cm
+%\topmargin=-1cm
+\oddsidemargin=0cm
+\parindent=0mm
+\pagestyle{plain}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+% La siguiente instrucciÃ³n pone el curso automÃ¡ticamente%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{color}
+\usepackage{ragged2e}
+
+\global\let\date\relax
+\newcounter{unomenos}
+\setcounter{unomenos}{\number\year}
+\addtocounter{unomenos}{-1}
+\stepcounter{unomenos}
+%\gdef\@date{ Course  2019}
+
+
+
+
+
+
+%---------------------------
+
+
+% \usepackage[lite]{mtpro2}
+\title{\underline{Assignment 2} \\}
+\author{Shreya Sharma}
+
+
+\begin{document}
+% \maketitle
+%\vspace{7 cm}
+
+
+\begin{center}
+    
+\vspace{1 cm}
+
+\textbf{\Large{CS685: Data Mining} \\ \vspace{0.5 cm}\Large{Assignment 2} \\\vspace{0.5 cm}\Large{Shreya Sharma (19111087)}}\\
+\vspace{1 cm} 
+\end{center}
+\section{Connected Components}
+The graph is well connected because even though the graph 
+have around 531 strongly connected components. Most of the connected components have 1 node only. \\ 
+
+Largest component have 4051 nodes, with a diameter of 9. So to reach a node from another will not take much of time.
+
+\section{Human Paths/Shortest Paths}
+
+Maximum path traversed by human is 434 whereas its shortest path is 2 only. Below tables are top 5 highest ratios. which shows that shortest paths are very less compared to paths traversed by humans in some cases. Max shortest path length traversed is 6 showing any two article can be reached efficiently. Back Clicks are also contributing to the ratios making it to take more time to reach.
+
+\begin{center}
+ \begin{tabular}{||c c c||} 
+ \hline
+ Human Path & Shortest Path & Ratio (without Back Clicks) \\ [0.5ex] 
+\hline\hline
+404 & 2 & 202\\
+\hline
+71	& 1	& 71\\
+\hline
+108	& 3	& 36\\
+\hline
+101	& 3	& 33.6666666666667\\
+\hline
+28	& 1	& 28\\
+\hline
+\end{tabular}\\ \\
+\end{center}
+
+\begin{center}
+ \begin{tabular}{||c c c||} 
+ \hline
+ Human Path & Shortest Path & Ratio (with Back Clicks)\\ [0.5ex] 
+\hline\hline
+ 434 & 2 & 217\\
+ \hline
+71 & 1 & 71\\
+\hline
+118 & 3 & 39.3333333333333\\
+\hline
+103 & 3 & 34.3333333333333\\
+\hline
+64 & 2 & 32\\
+\hline
+\end{tabular}\\ \\
+\end{center}
+
+
+\section{Path Differences }
+Most of the paths have same length or less than or equal to length 3 means humans are reaching its destination with almost shortest paths (pages). Very less paths have difference greater than 4 in both the cases. Humans have idea that the target can be reached from the particular page or not. 
+\begin{center}
+ \begin{tabular}{||c c||} 
+ \hline
+ Path Difference & Percentage of Paths (with Back Clicks)\\ [0.5ex] 
+\hline\hline
+0 & 19.9684247456438\\
+ \hline
+1 & 23.7788952559155\\
+\hline
+2 & 17.8400187112618\\
+\hline
+3 & 12.0044439246872\\
+\hline
+4 & 7.93084629478034\\
+\hline
+5 & 5.08907340272093\\
+ \hline
+6 & 3.428448914357\\
+\hline
+7 & 2.37204225626632\\
+\hline
+8 & 1.63138814173781\\
+\hline
+9 & 1.19089385257085\\
+\hline
+10 & 0.894632206759443\\
+\hline
+greater or equal to 11 & 3.87089229329903\\
+\hline
+\end{tabular}\\ \\
+\end{center}
+
+\begin{center}
+ \begin{tabular}{||c c||} 
+ \hline
+ Path Difference & Percentage of Paths (without Back Clicks)\\ [0.5ex] 
+\hline\hline
+0 & 22.3716524383113\\
+ \hline
+1 & 27.9889291700776\\
+\hline
+2 & 20.0327447082213\\
+\hline
+3 & 12.129185670292\\
+\hline
+4 & 6.98163957431879\\
+\hline
+5 & 3.81631777959693\\
+ \hline
+6 & 2.2492496004366 \\
+\hline
+7 & 1.32343195727595\\
+\hline
+8 & 0.853701321482867\\
+\hline
+9 & 0.584726932522512\\
+\hline
+10 & 0.442443378942034\\
+\hline
+greater or equal to 11 & 1.2259774685222\\
+\hline
+\end{tabular}\\ \\
+\end{center}
+
+
+\\
+\newpage
+\section{Most Categories Traversed}
+Categories below are traversed in humans paths showing humans are most likely to traverse through Countries and geography pages with American and European Countries topping the charts.\\
+The top 4 categories are also in the top 5 categories number of times traversed showing these top 4 categories are most nodes are connected with, meaning the pages associated with these categories comes in most of the paths traversed showing these articles are important nodes through which many nodes connect.
+\begin{center}
+ \begin{tabular}{||c c c c||} 
+ \hline
+ Category Name & ID & Percent of paths & No of times\\ [0.5ex] 
+\hline\hline
+subject.Countries & C0005 &	55.29 & 41955\\
+\hline
+subject.Geography.European\_Geography.European\_Countries & C0122 &	23.73 & 15176\\
+\hline
+subject.Geography.North\_American\_Geography & C0062 & 22.91 & 17414\\		
+\hline
+subject.Geography.Geography\_of\_Great\_Britain & C0056 &	16.11 & 11959 \\
+\hline
+subject.Geography.General\_Geography & C0054 & 14.13 & 9196	\\
+\hline
+\end{tabular}\\ \\
+\end{center}\\
+
+Output of ques 9 shows that when a child is visited, its parents must be visited. So as 'subject' is the root, addition of the columns of ques 8 must equals output of ques9 for category 'subject' (C0001). This follows for every parent.
+
+
+\section{Category Pairs}
+Output of q10 displays that most of the categories are traversed in unfinished paths(more percentage).
+If a category pair is visited, then its parents category are also visited because the path goes from them first.
+
+
+\end{document}
+
+
+

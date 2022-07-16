@@ -1,0 +1,39 @@
+CS633 Parallel Computing (Assignment 2)
+
+The objective of Assignment 2.1 is to time the communications between 30 nodes and to calculate the effective bandwidth between each pair of nodes in which a way that there are multiple concurrent transfers between pair of nodes.
+
+CONTENTS
+1. hostfile.sh : Bash script to create a file of hosts(hostfile.txt) which are up or live at the time of execution ( hostfile.sh should be given executable permission).
+2. run.sh : Bash script to automate from executing hostfile.sh to execute src.c file to plot Heatmap for plotting effective bandwidths (should be given executable permission).
+3. src.c : Main Source code for calculate bandwidth between each pair of nodes.
+4. plot.py : Python file to plot effective bandwidths in the form of heatmap on a 30 x 30 matrix (MBps on y-axis and MB on x-axis).
+5. plot-D.jpg : Sample plot showing the nature of the bandwidths for sending D databytes between each pair of nodes.
+6. plot-Ddiagonal0s.jpg : Sample plot showing nature of bandwidths for sending D databytes between each pair of nodes with diagonals bandwidths 0 i.e when a node sends data to itself.
+
+PREREQUISITES
+MPICH
+Python3
+Matplotlib
+Numpy
+Seaborn
+Pandas
+
+CODE DESCRIPTION
+1. src.c :
+src.c takes an argument of datasize D. Dynamic memory allocation is used to allocate memory for data. To send data from one node to another, for loop is used from index 0 to index (size-1) i.e from process of rank 0 to process to rank (size-1). To defferentiate between message received, different tages are used by concatenating sender rank and receiver rank for message to be send and by concatenating receiver rank and sender message for message to be send. 
+As MPI_Sendrecv() function is used, average of time is taken to time the communication for send and recv between each pair of nodes. Then, MPI_Send and MPI_Recv is used to get the max between send and recv.
+
+2. run.sh :
+First, it creates a hostfile and then it runs through a loop to execute the src.c for different datasizes. Individual sorted datafile is created for every datasize showing bandwidths between processes.
+
+3. plot.py :
+As input datafile is sorted(contains 9000 lines for 30x30x10 communications), so each consecutive 10 lines shows 10 different bandwidths between a specific pair of nodes. Median of these 10 bandwidths is at position 5th(middle) of group os bandwidth. For loop is used to output median bandwidth to another file(datafile.txt) that will contain only 900 lines which is used to plot heatmap.
+
+OBSERVATIONS
+1. Bandwidths are very high when a node is sending data to itself whereas other bandwidths goes upto 160 MBps when data transfer happens between different processes because the data has to through from one node to another through network that may already contain some data. So bandwidth decreases.
+2. As Datasizes increases, Bandwidths are also increasing but no that much. Bandwidths are more or less same ranging from 20 to 30MBps because of more effective utilisation of network capacity.
+3. Bandwidths are high between nodes 0 to 8.
+
+
+
+

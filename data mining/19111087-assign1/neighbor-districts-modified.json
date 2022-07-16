@@ -1,0 +1,4722 @@
+{
+    "Lahaul and Spiti_HP": [
+        "Kinnaur_HP",
+        "Kishtwar_JK",
+        "Leh_LA",
+        "Kargil_LA",
+        "Kullu_HP",
+        "Chamba_HP",
+        "Kangra_HP"
+    ],
+    "Kinnaur_HP": [
+        "Uttarkashi_UT",
+        "Kullu_HP",
+        "Shimla_HP",
+        "Lahaul and Spiti_HP"
+    ],
+    "Kullu_HP": [
+        "Shimla_HP",
+        "Kinnaur_HP",
+        "Lahaul and Spiti_HP",
+        "Mandi_HP",
+        "Kangra_HP"
+    ],
+    "Chamba_HP": [
+        "Doda_JK",
+        "Kishtwar_JK",
+        "Kathua_JK",
+        "Lahaul and Spiti_HP",
+        "Pathankot_PB",
+        "Kangra_HP"
+    ],
+    "Kangra_HP": [
+        "Gurdaspur_PB",
+        "Una_HP",
+        "Hamirpur_HP",
+        "Hoshiarpur_PB",
+        "Kullu_HP",
+        "Chamba_HP",
+        "Lahaul and Spiti_HP",
+        "Mandi_HP",
+        "Pathankot_PB"
+    ],
+    "Leh_LA": [
+        "Kargil_LA",
+        "Lahaul and Spiti_HP"
+    ],
+    "Kargil_LA": [
+        "Bandipora_JK",
+        "Kishtwar_JK",
+        "Leh_LA",
+        "Ganderbal_JK",
+        "Lahaul and Spiti_HP",
+        "Anantnag_JK"
+    ],
+    "Kishtwar_JK": [
+        "Doda_JK",
+        "Kargil_LA",
+        "Chamba_HP",
+        "Lahaul and Spiti_HP",
+        "Anantnag_JK"
+    ],
+    "Shimla_HP": [
+        "Sirmaur_HP",
+        "Dehradun_UT",
+        "Uttarkashi_UT",
+        "Kinnaur_HP",
+        "Solan_HP",
+        "Kullu_HP",
+        "Mandi_HP"
+    ],
+    "Uttarkashi_UT": [
+        "Tehri Garhwal_UT",
+        "Dehradun_UT",
+        "Kinnaur_HP",
+        "Rudraprayag_UT",
+        "Shimla_HP",
+        "Chamoli_UT"
+    ],
+    "Mandi_HP": [
+        "Hamirpur_HP",
+        "Solan_HP",
+        "Kullu_HP",
+        "Shimla_HP",
+        "Bilaspur_HP",
+        "Kangra_HP"
+    ],
+    "Kathua_JK": [
+        "Udhampur_JK",
+        "Doda_JK",
+        "Samba_JK",
+        "Chamba_HP",
+        "Pathankot_PB"
+    ],
+    "Pathankot_PB": [
+        "Kangra_HP",
+        "Kathua_JK",
+        "Gurdaspur_PB",
+        "Chamba_HP"
+    ],
+    "Doda_JK": [
+        "Udhampur_JK",
+        "Kishtwar_JK",
+        "Kathua_JK",
+        "Chamba_HP",
+        "Ramban_JK",
+        "Anantnag_JK"
+    ],
+    "Una_HP": [
+        "Rupnagar_PB",
+        "Hamirpur_HP",
+        "Hoshiarpur_PB",
+        "Bilaspur_HP",
+        "Kangra_HP"
+    ],
+    "Hamirpur_HP": [
+        "Kangra_HP",
+        "Bilaspur_HP",
+        "Mandi_HP",
+        "Una_HP"
+    ],
+    "Gurdaspur_PB": [
+        "Amritsar_PB",
+        "Kapurthala_PB",
+        "Hoshiarpur_PB",
+        "Pathankot_PB",
+        "Kangra_HP"
+    ],
+    "Hoshiarpur_PB": [
+        "Jalandhar_PB",
+        "Rupnagar_PB",
+        "Kapurthala_PB",
+        "Gurdaspur_PB",
+        "Una_HP",
+        "Shahid Bhagat Singh Nagar_PB",
+        "Kangra_HP"
+    ],
+    "Bilaspur_HP": [
+        "Rupnagar_PB",
+        "Hamirpur_HP",
+        "Una_HP",
+        "Solan_HP",
+        "Mandi_HP"
+    ],
+    "Rupnagar_PB": [
+        "S.A.S. Nagar_PB",
+        "Fatehgarh Sahib_PB",
+        "Una_HP",
+        "Solan_HP",
+        "Hoshiarpur_PB",
+        "Bilaspur_HP",
+        "Shahid Bhagat Singh Nagar_PB",
+        "Ludhiana_PB"
+    ],
+    "Solan_HP": [
+        "Sirmaur_HP",
+        "S.A.S. Nagar_PB",
+        "Rupnagar_PB",
+        "Bilaspur_HP",
+        "Shimla_HP",
+        "Mandi_HP",
+        "Panchkula_HR"
+    ],
+    "Sirmaur_HP": [
+        "Yamunanagar_HR",
+        "Dehradun_UT",
+        "Saharanpur_UP",
+        "Solan_HP",
+        "Ambala_HR",
+        "Shimla_HP",
+        "Panchkula_HR"
+    ],
+    "Panchkula_HR": [
+        "Sirmaur_HP",
+        "S.A.S. Nagar_PB",
+        "Solan_HP",
+        "Ambala_HR",
+        "Chandigarh_CH"
+    ],
+    "S.A.S. Nagar_PB": [
+        "Rupnagar_PB",
+        "Fatehgarh Sahib_PB",
+        "Patiala_PB",
+        "Solan_HP",
+        "Ambala_HR",
+        "Chandigarh_CH",
+        "Panchkula_HR"
+    ],
+    "Dehradun_UT": [
+        "Sirmaur_HP",
+        "Haridwar_UT",
+        "Tehri Garhwal_UT",
+        "Uttarkashi_UT",
+        "Saharanpur_UP",
+        "Shimla_HP",
+        "Pauri Garhwal_UT"
+    ],
+    "Ambala_HR": [
+        "Yamunanagar_HR",
+        "Sirmaur_HP",
+        "Kurukshetra_HR",
+        "S.A.S. Nagar_PB",
+        "Patiala_PB",
+        "Panchkula_HR"
+    ],
+    "Saharanpur_UP": [
+        "Yamunanagar_HR",
+        "Sirmaur_HP",
+        "Shamli_UP",
+        "Dehradun_UT",
+        "Muzaffarnagar_UP",
+        "Haridwar_UT",
+        "Karnal_HR"
+    ],
+    "Yamunanagar_HR": [
+        "Kurukshetra_HR",
+        "Sirmaur_HP",
+        "Saharanpur_UP",
+        "Ambala_HR",
+        "Karnal_HR"
+    ],
+    "Chamoli_UT": [
+        "Almora_UT",
+        "Uttarkashi_UT",
+        "Pithoragarh_UT",
+        "Bageshwar_UT",
+        "Rudraprayag_UT",
+        "Pauri Garhwal_UT"
+    ],
+    "Rudraprayag_UT": [
+        "Pauri Garhwal_UT",
+        "Uttarkashi_UT",
+        "Chamoli_UT",
+        "Tehri Garhwal_UT"
+    ],
+    "Tehri Garhwal_UT": [
+        "Uttarkashi_UT",
+        "Pauri Garhwal_UT",
+        "Rudraprayag_UT",
+        "Dehradun_UT"
+    ],
+    "Pithoragarh_UT": [
+        "Bageshwar_UT",
+        "Almora_UT",
+        "Chamoli_UT",
+        "Champawat_UT"
+    ],
+    "Bageshwar_UT": [
+        "Pithoragarh_UT",
+        "Chamoli_UT",
+        "Almora_UT"
+    ],
+    "Almora_UT": [
+        "Nainital_UT",
+        "Pithoragarh_UT",
+        "Pauri Garhwal_UT",
+        "Champawat_UT",
+        "Bageshwar_UT",
+        "Chamoli_UT"
+    ],
+    "Pauri Garhwal_UT": [
+        "Almora_UT",
+        "Tehri Garhwal_UT",
+        "Bijnor_UP",
+        "Dehradun_UT",
+        "Nainital_UT",
+        "Rudraprayag_UT",
+        "Haridwar_UT",
+        "Chamoli_UT"
+    ],
+    "Champawat_UT": [
+        "Nainital_UT",
+        "Udham Singh Nagar_UT",
+        "Almora_UT",
+        "Pithoragarh_UT"
+    ],
+    "Nainital_UT": [
+        "Almora_UT",
+        "Bijnor_UP",
+        "Udham Singh Nagar_UT",
+        "Champawat_UT",
+        "Pauri Garhwal_UT"
+    ],
+    "Udham Singh Nagar_UT": [
+        "Bareilly_UP",
+        "Bijnor_UP",
+        "Pilibhit_UP",
+        "Nainital_UT",
+        "Rampur_UP",
+        "Champawat_UT",
+        "Moradabad_UP"
+    ],
+    "Bijnor_UP": [
+        "Haridwar_UT",
+        "Meerut_UP",
+        "Amroha_UP",
+        "Muzaffarnagar_UP",
+        "Nainital_UT",
+        "Udham Singh Nagar_UT",
+        "Moradabad_UP",
+        "Pauri Garhwal_UT"
+    ],
+    "Bareilly_UP": [
+        "Budaun_UP",
+        "Pilibhit_UP",
+        "Rampur_UP",
+        "Udham Singh Nagar_UT",
+        "Shahjahanpur_UP"
+    ],
+    "Moradabad_UP": [
+        "Amroha_UP",
+        "Bijnor_UP",
+        "Budaun_UP",
+        "Rampur_UP",
+        "Udham Singh Nagar_UT",
+        "Sambhal_UP"
+    ],
+    "Rampur_UP": [
+        "Bareilly_UP",
+        "Udham Singh Nagar_UT",
+        "Budaun_UP",
+        "Moradabad_UP"
+    ],
+    "Pilibhit_UP": [
+        "Bareilly_UP",
+        "Udham Singh Nagar_UT",
+        "Lakhimpur Kheri_UP",
+        "Shahjahanpur_UP"
+    ],
+    "Haridwar_UT": [
+        "Dehradun_UT",
+        "Bijnor_UP",
+        "Muzaffarnagar_UP",
+        "Saharanpur_UP",
+        "Pauri Garhwal_UT"
+    ],
+    "Muzaffarnagar_UP": [
+        "Meerut_UP",
+        "Shamli_UP",
+        "Bijnor_UP",
+        "Baghpat_UP",
+        "Saharanpur_UP",
+        "Haridwar_UT"
+    ],
+    "Nilgiris_TN": [
+        "Malappuram_KL",
+        "Coimbatore_TN",
+        "Erode_TN",
+        "Chamarajanagara_KA",
+        "Wayanad_KL",
+        "Palakkad_KL"
+    ],
+    "Coimbatore_TN": [
+        "Erode_TN",
+        "Nilgiris_TN",
+        "Ernakulam_KL",
+        "Idukki_KL",
+        "Tiruppur_TN",
+        "Palakkad_KL",
+        "Thrissur_KL"
+    ],
+    "Erode_TN": [
+        "Coimbatore_TN",
+        "Nilgiris_TN",
+        "Namakkal_TN",
+        "Chamarajanagara_KA",
+        "Tiruppur_TN",
+        "Dharmapuri_TN",
+        "Karur_TN",
+        "Salem_TN"
+    ],
+    "Palakkad_KL": [
+        "Malappuram_KL",
+        "Coimbatore_TN",
+        "Thrissur_KL",
+        "Nilgiris_TN"
+    ],
+    "Malappuram_KL": [
+        "Nilgiris_TN",
+        "Wayanad_KL",
+        "Palakkad_KL",
+        "Thrissur_KL",
+        "Kozhikode_KL"
+    ],
+    "Wayanad_KL": [
+        "Malappuram_KL",
+        "Nilgiris_TN",
+        "Kodagu_KA",
+        "Kannur_KL",
+        "Chamarajanagara_KA",
+        "Mysuru_KA",
+        "Kozhikode_KL"
+    ],
+    "Chamarajanagara_KA": [
+        "Mandya_KA",
+        "Erode_TN",
+        "Krishnagiri_TN",
+        "Nilgiris_TN",
+        "Wayanad_KL",
+        "Mysuru_KA",
+        "Dharmapuri_TN",
+        "Salem_TN",
+        "Ramanagara_KA"
+    ],
+    "Jalpaiguri_WB": [
+        "Alipurduar_WB",
+        "Kalimpong_WB",
+        "Darjeeling_WB",
+        "Cooch Behar_WB"
+    ],
+    "Cooch Behar_WB": [
+        "Assam_AS",
+        "Jalpaiguri_WB",
+        "Alipurduar_WB"
+    ],
+    "Darjeeling_WB": [
+        "Kalimpong_WB",
+        "Sikkim_SK",
+        "Jalpaiguri_WB",
+        "Kishanganj_BR",
+        "Uttar Dinajpur_WB"
+    ],
+    "Alipurduar_WB": [
+        "Assam_AS",
+        "Jalpaiguri_WB",
+        "Cooch Behar_WB"
+    ],
+    "Kalimpong_WB": [
+        "Jalpaiguri_WB",
+        "Darjeeling_WB",
+        "Sikkim_SK"
+    ],
+    "Madhubani_BR": [
+        "Supaul_BR",
+        "Saharsa_BR",
+        "Sitamarhi_BR",
+        "Darbhanga_BR"
+    ],
+    "Saharsa_BR": [
+        "Madhubani_BR",
+        "Darbhanga_BR",
+        "Samastipur_BR",
+        "Khagaria_BR",
+        "Supaul_BR",
+        "Madhepura_BR"
+    ],
+    "Darbhanga_BR": [
+        "Muzaffarpur_BR",
+        "Madhubani_BR",
+        "Samastipur_BR",
+        "Saharsa_BR",
+        "Sitamarhi_BR"
+    ],
+    "Supaul_BR": [
+        "Madhubani_BR",
+        "Madhepura_BR",
+        "Araria_BR",
+        "Saharsa_BR"
+    ],
+    "Sitamarhi_BR": [
+        "Muzaffarpur_BR",
+        "Madhubani_BR",
+        "Darbhanga_BR",
+        "East Champaran_BR",
+        "Sheohar_BR"
+    ],
+    "Madhepura_BR": [
+        "Purnia_BR",
+        "Araria_BR",
+        "Bhagalpur_BR",
+        "Saharsa_BR",
+        "Khagaria_BR",
+        "Supaul_BR"
+    ],
+    "Khagaria_BR": [
+        "Munger_BR",
+        "Bhagalpur_BR",
+        "Samastipur_BR",
+        "Saharsa_BR",
+        "Madhepura_BR",
+        "Begusarai_BR"
+    ],
+    "Samastipur_BR": [
+        "Patna_BR",
+        "Muzaffarpur_BR",
+        "Darbhanga_BR",
+        "Saharsa_BR",
+        "Khagaria_BR",
+        "Vaishali_BR",
+        "Begusarai_BR"
+    ],
+    "Muzaffarpur_BR": [
+        "Saran_BR",
+        "Darbhanga_BR",
+        "Samastipur_BR",
+        "Gopalganj_BR",
+        "East Champaran_BR",
+        "Vaishali_BR",
+        "Sitamarhi_BR",
+        "Sheohar_BR"
+    ],
+    "Araria_BR": [
+        "Purnia_BR",
+        "Supaul_BR",
+        "Madhepura_BR",
+        "Kishanganj_BR"
+    ],
+    "East Champaran_BR": [
+        "Muzaffarpur_BR",
+        "West Champaran_BR",
+        "Gopalganj_BR",
+        "Sitamarhi_BR",
+        "Sheohar_BR"
+    ],
+    "Sheohar_BR": [
+        "Muzaffarpur_BR",
+        "East Champaran_BR",
+        "Sitamarhi_BR"
+    ],
+    "West Champaran_BR": [
+        "Gopalganj_BR",
+        "Kushinagar_UP",
+        "East Champaran_BR",
+        "Maharajganj_UP"
+    ],
+    "Gopalganj_BR": [
+        "Kushinagar_UP",
+        "Muzaffarpur_BR",
+        "Saran_BR",
+        "Siwan_BR",
+        "West Champaran_BR",
+        "Deoria_UP",
+        "East Champaran_BR"
+    ],
+    "Anantnag_JK": [
+        "Doda_JK",
+        "Kishtwar_JK",
+        "Shopiyan_JK",
+        "Srinagar_JK",
+        "Ganderbal_JK",
+        "Kargil_LA",
+        "Pulwama_JK",
+        "Ramban_JK",
+        "Kulgam_JK"
+    ],
+    "Bandipora_JK": [
+        "Baramulla_JK",
+        "Srinagar_JK",
+        "Ganderbal_JK",
+        "Kargil_LA",
+        "Kupwara_JK"
+    ],
+    "Ganderbal_JK": [
+        "Bandipora_JK",
+        "Kargil_LA",
+        "Srinagar_JK",
+        "Anantnag_JK"
+    ],
+    "Assam_AS": [
+        "Assam_AS",
+        "Longleng_NL",
+        "Lohit_AR",
+        "Aizawl_MZ",
+        "Manipur_MN",
+        "Kamle_AR",
+        "Changlang_AR",
+        "Mokokchung_NL",
+        "Mamit_MZ",
+        "Alipurduar_WB",
+        "West Jaintia Hills_ML",
+        "Mon_NL",
+        "North Tripura_TR",
+        "Longding_AR",
+        "Kohima_NL",
+        "East Jaintia Hills_ML",
+        "Kolasib_MZ",
+        "Lower Dibang Valley_AR",
+        "North Garo Hills_ML",
+        "Ribhoi_ML",
+        "Tirap_AR",
+        "Pakke Kessang_AR",
+        "Lakhimpur Kheri_UP",
+        "East Siang_AR",
+        "Peren_NL",
+        "Wokha_NL",
+        "Dimapur_NL",
+        "Cooch Behar_WB",
+        "Namsai_AR",
+        "South West Garo Hills_ML",
+        "Papum Pare_AR",
+        "Lower Siang_AR",
+        "West Khasi Hills_ML",
+        "West Garo Hills_ML",
+        "West Kameng_AR"
+    ],
+    "Dakshin Dinajpur_WB": [
+        "Uttar Dinajpur_WB",
+        "Malda_WB"
+    ],
+    "Uttar Dinajpur_WB": [
+        "Purnia_BR",
+        "Darjeeling_WB",
+        "Dakshin Dinajpur_WB",
+        "Katihar_BR",
+        "Kishanganj_BR",
+        "Malda_WB"
+    ],
+    "Malda_WB": [
+        "Katihar_BR",
+        "Murshidabad_WB",
+        "Sahibganj_JH",
+        "Uttar Dinajpur_WB",
+        "Dakshin Dinajpur_WB"
+    ],
+    "Kishanganj_BR": [
+        "Uttar Dinajpur_WB",
+        "Purnia_BR",
+        "Darjeeling_WB",
+        "Araria_BR"
+    ],
+    "Sikkim_SK": [
+        "Kalimpong_WB",
+        "Darjeeling_WB",
+        "Sikkim_SK"
+    ],
+    "Purnia_BR": [
+        "Araria_BR",
+        "Bhagalpur_BR",
+        "Katihar_BR",
+        "Kishanganj_BR",
+        "Uttar Dinajpur_WB",
+        "Madhepura_BR"
+    ],
+    "Katihar_BR": [
+        "Purnia_BR",
+        "Bhagalpur_BR",
+        "Sahibganj_JH",
+        "Uttar Dinajpur_WB",
+        "Malda_WB"
+    ],
+    "Ribhoi_ML": [
+        "Assam_AS",
+        "West Jaintia Hills_ML",
+        "East Khasi Hills_ML",
+        "West Khasi Hills_ML"
+    ],
+    "West Khasi Hills_ML": [
+        "Assam_AS",
+        "North Garo Hills_ML",
+        "Ribhoi_ML",
+        "South West Khasi Hills_ML",
+        "South Garo Hills_ML",
+        "East Garo Hills_ML",
+        "East Khasi Hills_ML"
+    ],
+    "North Garo Hills_ML": [
+        "Assam_AS",
+        "East Garo Hills_ML",
+        "West Garo Hills_ML",
+        "West Khasi Hills_ML"
+    ],
+    "Murshidabad_WB": [
+        "Nadia_WB",
+        "Birbhum_WB",
+        "Purba Bardhaman_WB",
+        "Pakur_JH",
+        "Sahibganj_JH",
+        "Malda_WB"
+    ],
+    "Sahibganj_JH": [
+        "Bhagalpur_BR",
+        "Godda_JH",
+        "Pakur_JH",
+        "Katihar_BR",
+        "Murshidabad_WB",
+        "Malda_WB"
+    ],
+    "Bhagalpur_BR": [
+        "Munger_BR",
+        "Purnia_BR",
+        "Godda_JH",
+        "Katihar_BR",
+        "Sahibganj_JH",
+        "Khagaria_BR",
+        "Banka_BR",
+        "Madhepura_BR"
+    ],
+    "Barmer_RJ": [
+        "Jodhpur_RJ",
+        "Kutch_GJ",
+        "Jaisalmer_RJ",
+        "Pali_RJ",
+        "Jalore_RJ"
+    ],
+    "Jalore_RJ": [
+        "Barmer_RJ",
+        "Sirohi_RJ",
+        "Kutch_GJ",
+        "Pali_RJ",
+        "Banaskantha_GJ"
+    ],
+    "Jodhpur_RJ": [
+        "Bikaner_RJ",
+        "Barmer_RJ",
+        "Jaisalmer_RJ",
+        "Nagaur_RJ",
+        "Pali_RJ"
+    ],
+    "Pali_RJ": [
+        "Barmer_RJ",
+        "Udaipur_RJ",
+        "Jodhpur_RJ",
+        "Sirohi_RJ",
+        "Rajsamand_RJ",
+        "Nagaur_RJ",
+        "Jalore_RJ",
+        "Ajmer_RJ"
+    ],
+    "Jaisalmer_RJ": [
+        "Barmer_RJ",
+        "Jodhpur_RJ",
+        "Bikaner_RJ"
+    ],
+    "Kutch_GJ": [
+        "Barmer_RJ",
+        "Morbi_GJ",
+        "Patan_GJ",
+        "Surendranagar_GJ",
+        "Banaskantha_GJ",
+        "Jalore_RJ"
+    ],
+    "Sirohi_RJ": [
+        "Udaipur_RJ",
+        "Banaskantha_GJ",
+        "Pali_RJ",
+        "Sabarkantha_GJ",
+        "Jalore_RJ"
+    ],
+    "Banaskantha_GJ": [
+        "Sirohi_RJ",
+        "Mehsana_GJ",
+        "Kutch_GJ",
+        "Patan_GJ",
+        "Sabarkantha_GJ",
+        "Jalore_RJ"
+    ],
+    "Bikaner_RJ": [
+        "Hanumangarh_RJ",
+        "Ganganagar_RJ",
+        "Jodhpur_RJ",
+        "Jaisalmer_RJ",
+        "Nagaur_RJ",
+        "Churu_RJ"
+    ],
+    "Nagaur_RJ": [
+        "Sikar_RJ",
+        "Bikaner_RJ",
+        "Churu_RJ",
+        "Jodhpur_RJ",
+        "Jaipur_RJ",
+        "Pali_RJ",
+        "Ajmer_RJ"
+    ],
+    "Ajmer_RJ": [
+        "Jaipur_RJ",
+        "Rajsamand_RJ",
+        "Bhilwara_RJ",
+        "Nagaur_RJ",
+        "Pali_RJ",
+        "Tonk_RJ"
+    ],
+    "Rajsamand_RJ": [
+        "Chittorgarh_RJ",
+        "Udaipur_RJ",
+        "Bhilwara_RJ",
+        "Pali_RJ",
+        "Ajmer_RJ"
+    ],
+    "Udaipur_RJ": [
+        "Chittorgarh_RJ",
+        "Dungarpur_RJ",
+        "Aravalli_GJ",
+        "Sirohi_RJ",
+        "Rajsamand_RJ",
+        "Pratapgarh_RJ",
+        "Pali_RJ",
+        "Sabarkantha_GJ"
+    ],
+    "Unnao_UP": [
+        "Lucknow_UP",
+        "Hardoi_UP",
+        "Fatehpur_UP",
+        "Rae Bareli_UP",
+        "Kanpur Nagar_UP"
+    ],
+    "Hardoi_UP": [
+        "Lucknow_UP",
+        "Unnao_UP",
+        "Farrukhabad_UP",
+        "Sitapur_UP",
+        "Kannauj_UP",
+        "Lakhimpur Kheri_UP",
+        "Shahjahanpur_UP",
+        "Kanpur Nagar_UP"
+    ],
+    "Lucknow_UP": [
+        "Unnao_UP",
+        "Hardoi_UP",
+        "Sitapur_UP",
+        "Rae Bareli_UP",
+        "Barabanki_UP"
+    ],
+    "Kanpur Nagar_UP": [
+        "Unnao_UP",
+        "Hardoi_UP",
+        "Hamirpur_UP",
+        "Kannauj_UP",
+        "Fatehpur_UP",
+        "Kanpur Dehat_UP"
+    ],
+    "Fatehpur_UP": [
+        "Kaushambi_UP",
+        "Unnao_UP",
+        "Hamirpur_UP",
+        "Pratapgarh_UP",
+        "Chitrakoot_UP",
+        "Rae Bareli_UP",
+        "Banda_UP",
+        "Kanpur Nagar_UP"
+    ],
+    "Rae Bareli_UP": [
+        "Lucknow_UP",
+        "Kaushambi_UP",
+        "Unnao_UP",
+        "Amethi_UP",
+        "Pratapgarh_UP",
+        "Fatehpur_UP",
+        "Barabanki_UP"
+    ],
+    "Kanyakumari_TN": [
+        "Tirunelveli_TN",
+        "Thiruvananthapuram_KL"
+    ],
+    "Tirunelveli_TN": [
+        "Thiruvananthapuram_KL",
+        "Kollam_KL",
+        "Pathanamthitta_KL",
+        "Kanyakumari_TN",
+        "Virudhunagar_TN",
+        "Idukki_KL",
+        "Thoothukkudi_TN"
+    ],
+    "Thiruvananthapuram_KL": [
+        "Tirunelveli_TN",
+        "Kanyakumari_TN",
+        "Kollam_KL"
+    ],
+    "Virudhunagar_TN": [
+        "Sivaganga_TN",
+        "Ramanathapuram_TN",
+        "Tirunelveli_TN",
+        "Idukki_KL",
+        "Madurai_TN",
+        "Theni_TN",
+        "Thoothukkudi_TN"
+    ],
+    "Idukki_KL": [
+        "Coimbatore_TN",
+        "Ernakulam_KL",
+        "Pathanamthitta_KL",
+        "Virudhunagar_TN",
+        "Tirunelveli_TN",
+        "Tiruppur_TN",
+        "Kottayam_KL",
+        "Theni_TN",
+        "Dindigul_TN"
+    ],
+    "Thoothukkudi_TN": [
+        "Tirunelveli_TN",
+        "Virudhunagar_TN",
+        "Ramanathapuram_TN"
+    ],
+    "Kollam_KL": [
+        "Tirunelveli_TN",
+        "Alappuzha_KL",
+        "Pathanamthitta_KL",
+        "Thiruvananthapuram_KL"
+    ],
+    "Pathanamthitta_KL": [
+        "Alappuzha_KL",
+        "Kollam_KL",
+        "Tirunelveli_TN",
+        "Idukki_KL",
+        "Kottayam_KL"
+    ],
+    "Pudukkottai_TN": [
+        "Ramanathapuram_TN",
+        "Sivaganga_TN",
+        "Thanjavur_TN",
+        "Tiruchirappalli_TN"
+    ],
+    "Sivaganga_TN": [
+        "Ramanathapuram_TN",
+        "Pudukkottai_TN",
+        "Virudhunagar_TN",
+        "Tiruchirappalli_TN",
+        "Madurai_TN"
+    ],
+    "Tiruchirappalli_TN": [
+        "Sivaganga_TN",
+        "Perambalur_TN",
+        "Karur_TN",
+        "Namakkal_TN",
+        "Pudukkottai_TN",
+        "Thanjavur_TN",
+        "Ariyalur_TN",
+        "Madurai_TN",
+        "Salem_TN",
+        "Dindigul_TN"
+    ],
+    "Thanjavur_TN": [
+        "Thiruvarur_TN",
+        "Pudukkottai_TN",
+        "Cuddalore_TN",
+        "Tiruchirappalli_TN",
+        "Ariyalur_TN",
+        "Nagapattinam_TN"
+    ],
+    "Ramanathapuram_TN": [
+        "Virudhunagar_TN",
+        "Sivaganga_TN",
+        "Pudukkottai_TN",
+        "Thoothukkudi_TN"
+    ],
+    "Madurai_TN": [
+        "Sivaganga_TN",
+        "Virudhunagar_TN",
+        "Tiruchirappalli_TN",
+        "Theni_TN",
+        "Dindigul_TN"
+    ],
+    "Theni_TN": [
+        "Madurai_TN",
+        "Idukki_KL",
+        "Virudhunagar_TN",
+        "Dindigul_TN"
+    ],
+    "Dindigul_TN": [
+        "Karur_TN",
+        "Tiruchirappalli_TN",
+        "Idukki_KL",
+        "Tiruppur_TN",
+        "Madurai_TN",
+        "Theni_TN"
+    ],
+    "Karur_TN": [
+        "Erode_TN",
+        "Namakkal_TN",
+        "Tiruchirappalli_TN",
+        "Tiruppur_TN",
+        "Dindigul_TN"
+    ],
+    "Tiruppur_TN": [
+        "Coimbatore_TN",
+        "Erode_TN",
+        "Idukki_KL",
+        "Karur_TN",
+        "Dindigul_TN"
+    ],
+    "Ernakulam_KL": [
+        "Alappuzha_KL",
+        "Coimbatore_TN",
+        "Idukki_KL",
+        "Kottayam_KL",
+        "Thrissur_KL"
+    ],
+    "Kottayam_KL": [
+        "Ernakulam_KL",
+        "Alappuzha_KL",
+        "Pathanamthitta_KL",
+        "Idukki_KL"
+    ],
+    "Thrissur_KL": [
+        "Malappuram_KL",
+        "Palakkad_KL",
+        "Ernakulam_KL",
+        "Coimbatore_TN"
+    ],
+    "Namakkal_TN": [
+        "Karur_TN",
+        "Salem_TN",
+        "Erode_TN",
+        "Tiruchirappalli_TN"
+    ],
+    "Salem_TN": [
+        "Perambalur_TN",
+        "Kallakurichi_TN",
+        "Erode_TN",
+        "Namakkal_TN",
+        "Chamarajanagara_KA",
+        "Tiruchirappalli_TN",
+        "Dharmapuri_TN"
+    ],
+    "Dharmapuri_TN": [
+        "Kallakurichi_TN",
+        "Erode_TN",
+        "Krishnagiri_TN",
+        "Chamarajanagara_KA",
+        "Tiruvannamalai_TN",
+        "Salem_TN"
+    ],
+    "Perambalur_TN": [
+        "Kallakurichi_TN",
+        "Cuddalore_TN",
+        "Tiruchirappalli_TN",
+        "Ariyalur_TN",
+        "Salem_TN"
+    ],
+    "Kallakurichi_TN": [
+        "Perambalur_TN",
+        "Cuddalore_TN",
+        "Tiruvannamalai_TN",
+        "Dharmapuri_TN",
+        "Viluppuram_TN",
+        "Salem_TN"
+    ],
+    "Ariyalur_TN": [
+        "Cuddalore_TN",
+        "Thanjavur_TN",
+        "Perambalur_TN",
+        "Tiruchirappalli_TN"
+    ],
+    "Tiruvannamalai_TN": [
+        "Kallakurichi_TN",
+        "Krishnagiri_TN",
+        "Kancheepuram_TN",
+        "Vellore_TN",
+        "Dharmapuri_TN",
+        "Viluppuram_TN"
+    ],
+    "Krishnagiri_TN": [
+        "Chittoor_AP",
+        "Chamarajanagara_KA",
+        "Bengaluru Rural_KA",
+        "Tiruvannamalai_TN",
+        "Vellore_TN",
+        "Bengaluru Urban_KA",
+        "Dharmapuri_TN",
+        "Ramanagara_KA",
+        "Kolar_KA"
+    ],
+    "Cuddalore_TN": [
+        "Perambalur_TN",
+        "Kallakurichi_TN",
+        "Nagapattinam_TN",
+        "Thanjavur_TN",
+        "Ariyalur_TN",
+        "Viluppuram_TN",
+        "Puducherry_PY"
+    ],
+    "Nagapattinam_TN": [
+        "Thanjavur_TN",
+        "Thiruvarur_TN",
+        "Karaikal_PY",
+        "Cuddalore_TN"
+    ],
+    "Viluppuram_TN": [
+        "Kallakurichi_TN",
+        "Kancheepuram_TN",
+        "Cuddalore_TN",
+        "Tiruvannamalai_TN",
+        "Puducherry_PY"
+    ],
+    "Puducherry_PY": [
+        "Viluppuram_TN",
+        "Cuddalore_TN"
+    ],
+    "Kancheepuram_TN": [
+        "Chennai_TN",
+        "Tiruvannamalai_TN",
+        "Thiruvallur_TN",
+        "Vellore_TN",
+        "Viluppuram_TN"
+    ],
+    "Thiruvallur_TN": [
+        "Chittoor_AP",
+        "Chennai_TN",
+        "Kancheepuram_TN",
+        "S.P.S. Nellore_AP",
+        "Vellore_TN"
+    ],
+    "Vellore_TN": [
+        "Chittoor_AP",
+        "Krishnagiri_TN",
+        "Kancheepuram_TN",
+        "Tiruvannamalai_TN",
+        "Thiruvallur_TN"
+    ],
+    "Chennai_TN": [
+        "Kancheepuram_TN",
+        "Thiruvallur_TN"
+    ],
+    "Karaikal_PY": [
+        "Nagapattinam_TN",
+        "Thiruvarur_TN"
+    ],
+    "Thiruvarur_TN": [
+        "Nagapattinam_TN",
+        "Thanjavur_TN",
+        "Karaikal_PY"
+    ],
+    "S.P.S. Nellore_AP": [
+        "Prakasam_AP",
+        "Y.S.R. Kadapa_AP",
+        "Thiruvallur_TN",
+        "Chittoor_AP"
+    ],
+    "Chittoor_AP": [
+        "Chikkaballapura_KA",
+        "Krishnagiri_TN",
+        "S.P.S. Nellore_AP",
+        "Y.S.R. Kadapa_AP",
+        "Thiruvallur_TN",
+        "Vellore_TN",
+        "Anantapur_AP",
+        "Kolar_KA"
+    ],
+    "Delhi_DL": [
+        "Gurugram_HR",
+        "Gautam Buddha Nagar_UP",
+        "Baghpat_UP",
+        "Delhi_DL",
+        "Sonipat_HR",
+        "Ghaziabad_UP",
+        "Faridabad_HR",
+        "Jhajjar_HR"
+    ],
+    "Gautam Buddha Nagar_UP": [
+        "Hapur_UP",
+        "Aligarh_UP",
+        "Palwal_HR",
+        "Delhi_DL",
+        "Faridabad_HR",
+        "Ghaziabad_UP",
+        "Bulandshahr_UP"
+    ],
+    "Ghaziabad_UP": [
+        "Meerut_UP",
+        "Gautam Buddha Nagar_UP",
+        "Hapur_UP",
+        "Baghpat_UP",
+        "Delhi_DL"
+    ],
+    "Sonipat_HR": [
+        "Rohtak_HR",
+        "Baghpat_UP",
+        "Delhi_DL",
+        "Panipat_HR",
+        "Jind_HR",
+        "Jhajjar_HR"
+    ],
+    "Baghpat_UP": [
+        "Meerut_UP",
+        "Shamli_UP",
+        "Muzaffarnagar_UP",
+        "Panipat_HR",
+        "Delhi_DL",
+        "Sonipat_HR",
+        "Ghaziabad_UP"
+    ],
+    "Jhajjar_HR": [
+        "Rohtak_HR",
+        "Gurugram_HR",
+        "Charkhi Dadri_HR",
+        "Mahendragarh_HR",
+        "Delhi_DL",
+        "Sonipat_HR",
+        "Rewari_HR"
+    ],
+    "Gurugram_HR": [
+        "Palwal_HR",
+        "Nuh_HR",
+        "Delhi_DL",
+        "Faridabad_HR",
+        "Rewari_HR",
+        "Jhajjar_HR"
+    ],
+    "Faridabad_HR": [
+        "Gautam Buddha Nagar_UP",
+        "Palwal_HR",
+        "Delhi_DL",
+        "Gurugram_HR"
+    ],
+    "Kurukshetra_HR": [
+        "Yamunanagar_HR",
+        "Patiala_PB",
+        "Ambala_HR",
+        "Kaithal_HR",
+        "Karnal_HR"
+    ],
+    "Patiala_PB": [
+        "Kurukshetra_HR",
+        "S.A.S. Nagar_PB",
+        "Fatehgarh Sahib_PB",
+        "Sangrur_PB",
+        "Ambala_HR",
+        "Jind_HR",
+        "Kaithal_HR"
+    ],
+    "Chandigarh_CH": [
+        "S.A.S. Nagar_PB",
+        "Panchkula_HR"
+    ],
+    "Karnal_HR": [
+        "Yamunanagar_HR",
+        "Kurukshetra_HR",
+        "Shamli_UP",
+        "Saharanpur_UP",
+        "Panipat_HR",
+        "Jind_HR",
+        "Kaithal_HR"
+    ],
+    "Kaithal_HR": [
+        "Kurukshetra_HR",
+        "Jind_HR",
+        "Patiala_PB",
+        "Karnal_HR"
+    ],
+    "Panipat_HR": [
+        "Shamli_UP",
+        "Baghpat_UP",
+        "Sonipat_HR",
+        "Jind_HR",
+        "Karnal_HR"
+    ],
+    "Jind_HR": [
+        "Rohtak_HR",
+        "Hisar_HR",
+        "Patiala_PB",
+        "Sangrur_PB",
+        "Fatehabad_HR",
+        "Panipat_HR",
+        "Sonipat_HR",
+        "Kaithal_HR",
+        "Karnal_HR"
+    ],
+    "Shamli_UP": [
+        "Muzaffarnagar_UP",
+        "Baghpat_UP",
+        "Saharanpur_UP",
+        "Panipat_HR",
+        "Karnal_HR"
+    ],
+    "Rohtak_HR": [
+        "Charkhi Dadri_HR",
+        "Sonipat_HR",
+        "Jind_HR",
+        "Bhiwani_HR",
+        "Hisar_HR",
+        "Jhajjar_HR"
+    ],
+    "Hisar_HR": [
+        "Rohtak_HR",
+        "Hanumangarh_RJ",
+        "Fatehabad_HR",
+        "Jind_HR",
+        "Bhiwani_HR"
+    ],
+    "Fatehabad_HR": [
+        "Hanumangarh_RJ",
+        "Sirsa_HR",
+        "Sangrur_PB",
+        "Jind_HR",
+        "Hisar_HR",
+        "Mansa_PB"
+    ],
+    "Sangrur_PB": [
+        "Ludhiana_PB",
+        "Fatehgarh Sahib_PB",
+        "Patiala_PB",
+        "Fatehabad_HR",
+        "Jind_HR",
+        "Barnala_PB",
+        "Mansa_PB"
+    ],
+    "Bhiwani_HR": [
+        "Rohtak_HR",
+        "Hanumangarh_RJ",
+        "Charkhi Dadri_HR",
+        "Mahendragarh_HR",
+        "Hisar_HR",
+        "Jhunjhunu_RJ",
+        "Churu_RJ"
+    ],
+    "Hanumangarh_RJ": [
+        "Bikaner_RJ",
+        "Sirsa_HR",
+        "Fazilka_PB",
+        "Sri Muktsar Sahib_PB",
+        "Ganganagar_RJ",
+        "Fatehabad_HR",
+        "Bhiwani_HR",
+        "Hisar_HR",
+        "Churu_RJ"
+    ],
+    "Sirsa_HR": [
+        "Hanumangarh_RJ",
+        "Bathinda_PB",
+        "Sri Muktsar Sahib_PB",
+        "Fatehabad_HR",
+        "Mansa_PB"
+    ],
+    "Mansa_PB": [
+        "Bathinda_PB",
+        "Sirsa_HR",
+        "Sangrur_PB",
+        "Fatehabad_HR",
+        "Barnala_PB"
+    ],
+    "Bathinda_PB": [
+        "Faridkot_PB",
+        "Moga_PB",
+        "Sirsa_HR",
+        "Sri Muktsar Sahib_PB",
+        "Barnala_PB",
+        "Mansa_PB"
+    ],
+    "Sri Muktsar Sahib_PB": [
+        "Faridkot_PB",
+        "Hanumangarh_RJ",
+        "Bathinda_PB",
+        "Sirsa_HR",
+        "Fazilka_PB",
+        "Ferozepur_PB"
+    ],
+    "Charkhi Dadri_HR": [
+        "Bhiwani_HR",
+        "Rohtak_HR",
+        "Mahendragarh_HR",
+        "Jhajjar_HR"
+    ],
+    "Mahendragarh_HR": [
+        "Sikar_RJ",
+        "Alwar_RJ",
+        "Charkhi Dadri_HR",
+        "Bhiwani_HR",
+        "Jaipur_RJ",
+        "Rewari_HR",
+        "Jhunjhunu_RJ",
+        "Jhajjar_HR"
+    ],
+    "Rewari_HR": [
+        "Gurugram_HR",
+        "Alwar_RJ",
+        "Nuh_HR",
+        "Mahendragarh_HR",
+        "Jhajjar_HR"
+    ],
+    "Churu_RJ": [
+        "Sikar_RJ",
+        "Hanumangarh_RJ",
+        "Bikaner_RJ",
+        "Bhiwani_HR",
+        "Nagaur_RJ",
+        "Jhunjhunu_RJ"
+    ],
+    "Jhunjhunu_RJ": [
+        "Bhiwani_HR",
+        "Sikar_RJ",
+        "Mahendragarh_HR",
+        "Churu_RJ"
+    ],
+    "Sikar_RJ": [
+        "Mahendragarh_HR",
+        "Jaipur_RJ",
+        "Nagaur_RJ",
+        "Jhunjhunu_RJ",
+        "Churu_RJ"
+    ],
+    "Alwar_RJ": [
+        "Nuh_HR",
+        "Jaipur_RJ",
+        "Mahendragarh_HR",
+        "Rewari_HR",
+        "Bharatpur_RJ",
+        "Dausa_RJ"
+    ],
+    "Jaipur_RJ": [
+        "Sikar_RJ",
+        "Alwar_RJ",
+        "Mahendragarh_HR",
+        "Tonk_RJ",
+        "Nagaur_RJ",
+        "Dausa_RJ",
+        "Ajmer_RJ"
+    ],
+    "Nuh_HR": [
+        "Gurugram_HR",
+        "Alwar_RJ",
+        "Palwal_HR",
+        "Rewari_HR",
+        "Bharatpur_RJ",
+        "Mathura_UP"
+    ],
+    "Palwal_HR": [
+        "Gurugram_HR",
+        "Gautam Buddha Nagar_UP",
+        "Aligarh_UP",
+        "Nuh_HR",
+        "Faridabad_HR",
+        "Mathura_UP"
+    ],
+    "Udhampur_JK": [
+        "Doda_JK",
+        "Kathua_JK",
+        "Samba_JK",
+        "Ramban_JK",
+        "Reasi_JK",
+        "Jammu_JK"
+    ],
+    "Jammu_JK": [
+        "Rajouri_JK",
+        "Udhampur_JK",
+        "Samba_JK",
+        "Reasi_JK"
+    ],
+    "Reasi_JK": [
+        "Udhampur_JK",
+        "Punch_JK",
+        "Rajouri_JK",
+        "Ramban_JK",
+        "Kulgam_JK",
+        "Jammu_JK"
+    ],
+    "Samba_JK": [
+        "Kathua_JK",
+        "Udhampur_JK",
+        "Jammu_JK"
+    ],
+    "Ramban_JK": [
+        "Udhampur_JK",
+        "Doda_JK",
+        "Kulgam_JK",
+        "Anantnag_JK",
+        "Reasi_JK"
+    ],
+    "Rajouri_JK": [
+        "Jammu_JK",
+        "Punch_JK",
+        "Kulgam_JK",
+        "Reasi_JK"
+    ],
+    "Punch_JK": [
+        "Baramulla_JK",
+        "Kulgam_JK",
+        "Budgam_JK",
+        "Reasi_JK",
+        "Rajouri_JK"
+    ],
+    "Kulgam_JK": [
+        "Punch_JK",
+        "Rajouri_JK",
+        "Shopiyan_JK",
+        "Ramban_JK",
+        "Budgam_JK",
+        "Anantnag_JK",
+        "Reasi_JK"
+    ],
+    "Budgam_JK": [
+        "Baramulla_JK",
+        "Punch_JK",
+        "Shopiyan_JK",
+        "Srinagar_JK",
+        "Pulwama_JK",
+        "Kulgam_JK"
+    ],
+    "Baramulla_JK": [
+        "Bandipora_JK",
+        "Punch_JK",
+        "Srinagar_JK",
+        "Budgam_JK",
+        "Kupwara_JK"
+    ],
+    "Pulwama_JK": [
+        "Srinagar_JK",
+        "Shopiyan_JK",
+        "Anantnag_JK",
+        "Budgam_JK"
+    ],
+    "Srinagar_JK": [
+        "Baramulla_JK",
+        "Bandipora_JK",
+        "Ganderbal_JK",
+        "Pulwama_JK",
+        "Budgam_JK",
+        "Anantnag_JK"
+    ],
+    "Shopiyan_JK": [
+        "Pulwama_JK",
+        "Kulgam_JK",
+        "Anantnag_JK",
+        "Budgam_JK"
+    ],
+    "Kupwara_JK": [
+        "Baramulla_JK",
+        "Bandipora_JK"
+    ],
+    "Fatehgarh Sahib_PB": [
+        "S.A.S. Nagar_PB",
+        "Rupnagar_PB",
+        "Patiala_PB",
+        "Sangrur_PB",
+        "Ludhiana_PB"
+    ],
+    "Ludhiana_PB": [
+        "Jalandhar_PB",
+        "Rupnagar_PB",
+        "Fatehgarh Sahib_PB",
+        "Moga_PB",
+        "Sangrur_PB",
+        "Barnala_PB",
+        "Shahid Bhagat Singh Nagar_PB"
+    ],
+    "Moga_PB": [
+        "Faridkot_PB",
+        "Jalandhar_PB",
+        "Bathinda_PB",
+        "Ferozepur_PB",
+        "Barnala_PB",
+        "Ludhiana_PB"
+    ],
+    "Jalandhar_PB": [
+        "Kapurthala_PB",
+        "Moga_PB",
+        "Ferozepur_PB",
+        "Hoshiarpur_PB",
+        "Shahid Bhagat Singh Nagar_PB",
+        "Ludhiana_PB"
+    ],
+    "Shahid Bhagat Singh Nagar_PB": [
+        "Jalandhar_PB",
+        "Rupnagar_PB",
+        "Kapurthala_PB",
+        "Hoshiarpur_PB",
+        "Ludhiana_PB"
+    ],
+    "Barnala_PB": [
+        "Bathinda_PB",
+        "Mansa_PB",
+        "Moga_PB",
+        "Sangrur_PB",
+        "Ludhiana_PB"
+    ],
+    "Faridkot_PB": [
+        "Moga_PB",
+        "Bathinda_PB",
+        "Ferozepur_PB",
+        "Sri Muktsar Sahib_PB"
+    ],
+    "Ferozepur_PB": [
+        "Faridkot_PB",
+        "Jalandhar_PB",
+        "Tarn Taran_PB",
+        "Kapurthala_PB",
+        "Moga_PB",
+        "Fazilka_PB",
+        "Sri Muktsar Sahib_PB"
+    ],
+    "Fazilka_PB": [
+        "Ganganagar_RJ",
+        "Ferozepur_PB",
+        "Hanumangarh_RJ",
+        "Sri Muktsar Sahib_PB"
+    ],
+    "Kapurthala_PB": [
+        "Amritsar_PB",
+        "Jalandhar_PB",
+        "Tarn Taran_PB",
+        "Gurdaspur_PB",
+        "Ferozepur_PB",
+        "Hoshiarpur_PB",
+        "Shahid Bhagat Singh Nagar_PB"
+    ],
+    "Tarn Taran_PB": [
+        "Amritsar_PB",
+        "Kapurthala_PB",
+        "Ferozepur_PB"
+    ],
+    "Amritsar_PB": [
+        "Tarn Taran_PB",
+        "Gurdaspur_PB",
+        "Kapurthala_PB"
+    ],
+    "Ganganagar_RJ": [
+        "Fazilka_PB",
+        "Hanumangarh_RJ",
+        "Bikaner_RJ"
+    ],
+    "Sabarkantha_GJ": [
+        "Aravalli_GJ",
+        "Udaipur_RJ",
+        "Sirohi_RJ",
+        "Mehsana_GJ",
+        "Gandhinagar_GJ",
+        "Banaskantha_GJ"
+    ],
+    "Tonk_RJ": [
+        "Bundi_RJ",
+        "Jaipur_RJ",
+        "Bhilwara_RJ",
+        "Sawai Madhopur_RJ",
+        "Dausa_RJ",
+        "Ajmer_RJ"
+    ],
+    "Bhilwara_RJ": [
+        "Chittorgarh_RJ",
+        "Bundi_RJ",
+        "Rajsamand_RJ",
+        "Neemuch_MP",
+        "Tonk_RJ",
+        "Ajmer_RJ"
+    ],
+    "Bharatpur_RJ": [
+        "Alwar_RJ",
+        "Nuh_HR",
+        "Karauli_RJ",
+        "Agra_UP",
+        "Dholpur_RJ",
+        "Dausa_RJ",
+        "Mathura_UP"
+    ],
+    "Dausa_RJ": [
+        "Alwar_RJ",
+        "Jaipur_RJ",
+        "Karauli_RJ",
+        "Sawai Madhopur_RJ",
+        "Bharatpur_RJ",
+        "Tonk_RJ"
+    ],
+    "Dholpur_RJ": [
+        "Agra_UP",
+        "Karauli_RJ",
+        "Bharatpur_RJ",
+        "Morena_MP"
+    ],
+    "Karauli_RJ": [
+        "Sheopur_MP",
+        "Sawai Madhopur_RJ",
+        "Morena_MP",
+        "Dholpur_RJ",
+        "Bharatpur_RJ",
+        "Dausa_RJ"
+    ],
+    "Mathura_UP": [
+        "Aligarh_UP",
+        "Nuh_HR",
+        "Palwal_HR",
+        "Hathras_UP",
+        "Agra_UP",
+        "Bharatpur_RJ"
+    ],
+    "Agra_UP": [
+        "Firozabad_UP",
+        "Bhind_MP",
+        "Hathras_UP",
+        "Etah_UP",
+        "Morena_MP",
+        "Etawah_UP",
+        "Dholpur_RJ",
+        "Bharatpur_RJ",
+        "Mathura_UP"
+    ],
+    "Sawai Madhopur_RJ": [
+        "Bundi_RJ",
+        "Sheopur_MP",
+        "Kota_RJ",
+        "Karauli_RJ",
+        "Dausa_RJ",
+        "Tonk_RJ"
+    ],
+    "Morena_MP": [
+        "Sheopur_MP",
+        "Gwalior_MP",
+        "Bhind_MP",
+        "Shivpuri_MP",
+        "Karauli_RJ",
+        "Agra_UP",
+        "Dholpur_RJ"
+    ],
+    "Sheopur_MP": [
+        "Baran_RJ",
+        "Kota_RJ",
+        "Shivpuri_MP",
+        "Karauli_RJ",
+        "Sawai Madhopur_RJ",
+        "Morena_MP"
+    ],
+    "Kota_RJ": [
+        "Chittorgarh_RJ",
+        "Bundi_RJ",
+        "Baran_RJ",
+        "Sheopur_MP",
+        "Mandsaur_MP",
+        "Jhalawar_RJ",
+        "Sawai Madhopur_RJ"
+    ],
+    "Bundi_RJ": [
+        "Chittorgarh_RJ",
+        "Kota_RJ",
+        "Bhilwara_RJ",
+        "Sawai Madhopur_RJ",
+        "Tonk_RJ"
+    ],
+    "Baran_RJ": [
+        "Guna_MP",
+        "Sheopur_MP",
+        "Kota_RJ",
+        "Jhalawar_RJ",
+        "Shivpuri_MP"
+    ],
+    "Jhalawar_RJ": [
+        "Ratlam_MP",
+        "Guna_MP",
+        "Rajgarh_MP",
+        "Baran_RJ",
+        "Mandsaur_MP",
+        "Kota_RJ",
+        "Agar Malwa_MP"
+    ],
+    "Shivpuri_MP": [
+        "Guna_MP",
+        "Baran_RJ",
+        "Ashoknagar_MP",
+        "Sheopur_MP",
+        "Gwalior_MP",
+        "Datia_MP",
+        "Morena_MP",
+        "Lalitpur_UP",
+        "Jhansi_UP"
+    ],
+    "Guna_MP": [
+        "Rajgarh_MP",
+        "Baran_RJ",
+        "Ashoknagar_MP",
+        "Jhalawar_RJ",
+        "Shivpuri_MP",
+        "Vidisha_MP",
+        "Bhopal_MP"
+    ],
+    "Mandsaur_MP": [
+        "Ratlam_MP",
+        "Chittorgarh_RJ",
+        "Kota_RJ",
+        "Jhalawar_RJ",
+        "Neemuch_MP",
+        "Pratapgarh_RJ"
+    ],
+    "Rajgarh_MP": [
+        "Guna_MP",
+        "Shajapur_MP",
+        "Jhalawar_RJ",
+        "Sehore_MP",
+        "Agar Malwa_MP",
+        "Bhopal_MP"
+    ],
+    "Ratlam_MP": [
+        "Ujjain_MP",
+        "Banswara_RJ",
+        "Dhar_MP",
+        "Mandsaur_MP",
+        "Jhabua_MP",
+        "Jhalawar_RJ",
+        "Agar Malwa_MP",
+        "Pratapgarh_RJ"
+    ],
+    "Agar Malwa_MP": [
+        "Ratlam_MP",
+        "Ujjain_MP",
+        "Rajgarh_MP",
+        "Shajapur_MP",
+        "Jhalawar_RJ"
+    ],
+    "Chittorgarh_RJ": [
+        "Bundi_RJ",
+        "Mandsaur_MP",
+        "Kota_RJ",
+        "Udaipur_RJ",
+        "Rajsamand_RJ",
+        "Bhilwara_RJ",
+        "Neemuch_MP",
+        "Pratapgarh_RJ"
+    ],
+    "Neemuch_MP": [
+        "Pratapgarh_RJ",
+        "Chittorgarh_RJ",
+        "Mandsaur_MP",
+        "Bhilwara_RJ"
+    ],
+    "Pratapgarh_RJ": [
+        "Ratlam_MP",
+        "Chittorgarh_RJ",
+        "Dungarpur_RJ",
+        "Banswara_RJ",
+        "Mandsaur_MP",
+        "Udaipur_RJ",
+        "Neemuch_MP"
+    ],
+    "Banswara_RJ": [
+        "Ratlam_MP",
+        "Dungarpur_RJ",
+        "Mahisagar_GJ",
+        "Jhabua_MP",
+        "Dahod_GJ",
+        "Pratapgarh_RJ"
+    ],
+    "Dungarpur_RJ": [
+        "Mahisagar_GJ",
+        "Banswara_RJ",
+        "Aravalli_GJ",
+        "Udaipur_RJ",
+        "Pratapgarh_RJ"
+    ],
+    "Dahod_GJ": [
+        "Mahisagar_GJ",
+        "Banswara_RJ",
+        "Jhabua_MP",
+        "Alirajpur_MP",
+        "Panchmahal_GJ",
+        "Chhota Udaipur_GJ"
+    ],
+    "Jhabua_MP": [
+        "Ratlam_MP",
+        "Banswara_RJ",
+        "Dhar_MP",
+        "Alirajpur_MP",
+        "Dahod_GJ"
+    ],
+    "Mahisagar_GJ": [
+        "Dungarpur_RJ",
+        "Banswara_RJ",
+        "Aravalli_GJ",
+        "Panchmahal_GJ",
+        "Dahod_GJ",
+        "Kheda_GJ"
+    ],
+    "Aravalli_GJ": [
+        "Dungarpur_RJ",
+        "Mahisagar_GJ",
+        "Udaipur_RJ",
+        "Kheda_GJ",
+        "Gandhinagar_GJ",
+        "Sabarkantha_GJ"
+    ],
+    "Mehsana_GJ": [
+        "Surendranagar_GJ",
+        "Ahmedabad_GJ",
+        "Banaskantha_GJ",
+        "Patan_GJ",
+        "Gandhinagar_GJ",
+        "Sabarkantha_GJ"
+    ],
+    "Patan_GJ": [
+        "Mehsana_GJ",
+        "Kutch_GJ",
+        "Banaskantha_GJ",
+        "Surendranagar_GJ"
+    ],
+    "Gandhinagar_GJ": [
+        "Ahmedabad_GJ",
+        "Aravalli_GJ",
+        "Mehsana_GJ",
+        "Kheda_GJ",
+        "Sabarkantha_GJ"
+    ],
+    "Surendranagar_GJ": [
+        "Botad_GJ",
+        "Rajkot_GJ",
+        "Ahmedabad_GJ",
+        "Morbi_GJ",
+        "Mehsana_GJ",
+        "Kutch_GJ",
+        "Patan_GJ"
+    ],
+    "Ahmedabad_GJ": [
+        "Botad_GJ",
+        "Bhavnagar_GJ",
+        "Mehsana_GJ",
+        "Kheda_GJ",
+        "Anand_GJ",
+        "Surendranagar_GJ",
+        "Gandhinagar_GJ"
+    ],
+    "Panchmahal_GJ": [
+        "Mahisagar_GJ",
+        "Vadodara_GJ",
+        "Chhota Udaipur_GJ",
+        "Kheda_GJ",
+        "Dahod_GJ"
+    ],
+    "Chhota Udaipur_GJ": [
+        "Vadodara_GJ",
+        "Nandurbar_MH",
+        "Alirajpur_MP",
+        "Panchmahal_GJ",
+        "Narmada_GJ",
+        "Dahod_GJ"
+    ],
+    "Alirajpur_MP": [
+        "Dhar_MP",
+        "Nandurbar_MH",
+        "Jhabua_MP",
+        "Chhota Udaipur_GJ",
+        "Dahod_GJ",
+        "Barwani_MP"
+    ],
+    "Kheda_GJ": [
+        "Mahisagar_GJ",
+        "Vadodara_GJ",
+        "Ahmedabad_GJ",
+        "Aravalli_GJ",
+        "Panchmahal_GJ",
+        "Anand_GJ",
+        "Gandhinagar_GJ"
+    ],
+    "Vadodara_GJ": [
+        "Bharuch_GJ",
+        "Panchmahal_GJ",
+        "Narmada_GJ",
+        "Chhota Udaipur_GJ",
+        "Kheda_GJ",
+        "Anand_GJ"
+    ],
+    "Anand_GJ": [
+        "Ahmedabad_GJ",
+        "Bharuch_GJ",
+        "Kheda_GJ",
+        "Vadodara_GJ"
+    ],
+    "Narmada_GJ": [
+        "Tapi_GJ",
+        "Vadodara_GJ",
+        "Bharuch_GJ",
+        "Nandurbar_MH",
+        "Surat_GJ",
+        "Chhota Udaipur_GJ"
+    ],
+    "Bharuch_GJ": [
+        "Anand_GJ",
+        "Surat_GJ",
+        "Narmada_GJ",
+        "Vadodara_GJ"
+    ],
+    "Surat_GJ": [
+        "Narmada_GJ",
+        "Tapi_GJ",
+        "Bharuch_GJ",
+        "Navsari_GJ"
+    ],
+    "Nandurbar_MH": [
+        "Tapi_GJ",
+        "Dhule_MH",
+        "Alirajpur_MP",
+        "Narmada_GJ",
+        "Chhota Udaipur_GJ",
+        "Barwani_MP"
+    ],
+    "Tapi_GJ": [
+        "Dhule_MH",
+        "Surat_GJ",
+        "Nandurbar_MH",
+        "Narmada_GJ",
+        "Dang_GJ",
+        "Navsari_GJ"
+    ],
+    "Navsari_GJ": [
+        "Tapi_GJ",
+        "Surat_GJ",
+        "Nashik_MH",
+        "Valsad_GJ",
+        "Dang_GJ"
+    ],
+    "Dang_GJ": [
+        "Tapi_GJ",
+        "Nashik_MH",
+        "Dhule_MH",
+        "Navsari_GJ"
+    ],
+    "Dhule_MH": [
+        "Tapi_GJ",
+        "Nashik_MH",
+        "Nandurbar_MH",
+        "Jalgaon_MH",
+        "Dang_GJ",
+        "Barwani_MP"
+    ],
+    "Nashik_MH": [
+        "Dhule_MH",
+        "Ahmednagar_MH",
+        "Mumbai_MH",
+        "Thane_MH",
+        "Jalgaon_MH",
+        "Valsad_GJ",
+        "Palghar_MH",
+        "Dang_GJ",
+        "Aurangabad_MH",
+        "Navsari_GJ"
+    ],
+    "Dadra and Nagar Haveli_DN": [
+        "Mumbai_MH",
+        "Valsad_GJ",
+        "Palghar_MH"
+    ],
+    "Valsad_GJ": [
+        "Mumbai_MH",
+        "Dadra and Nagar Haveli_DN",
+        "Nashik_MH",
+        "Daman_DN",
+        "Palghar_MH",
+        "Navsari_GJ"
+    ],
+    "Mumbai_MH": [
+        "Palghar_MH",
+        "Ahmednagar_MH",
+        "Sindhudurg_MH",
+        "Sangli_MH",
+        "Mumbai_MH",
+        "Dadra and Nagar Haveli_DN",
+        "Belagavi_KA",
+        "Nashik_MH",
+        "Thane_MH",
+        "Satara_MH",
+        "Goa_GA",
+        "Ratnagiri_MH",
+        "Valsad_GJ",
+        "Raigad_MH",
+        "Pune_MH",
+        "Kolhapur_MH"
+    ],
+    "Palghar_MH": [
+        "Mumbai_MH",
+        "Dadra and Nagar Haveli_DN",
+        "Nashik_MH",
+        "Thane_MH",
+        "Valsad_GJ"
+    ],
+    "Daman_DN": [
+        "Valsad_GJ"
+    ],
+    "Rajkot_GJ": [
+        "Botad_GJ",
+        "Porbandar_GJ",
+        "Amreli_GJ",
+        "Morbi_GJ",
+        "Jamnagar_GJ",
+        "Surendranagar_GJ",
+        "Junagadh_GJ"
+    ],
+    "Morbi_GJ": [
+        "Rajkot_GJ",
+        "Kutch_GJ",
+        "Jamnagar_GJ",
+        "Surendranagar_GJ"
+    ],
+    "Botad_GJ": [
+        "Rajkot_GJ",
+        "Ahmedabad_GJ",
+        "Bhavnagar_GJ",
+        "Amreli_GJ",
+        "Surendranagar_GJ"
+    ],
+    "Bhavnagar_GJ": [
+        "Ahmedabad_GJ",
+        "Botad_GJ",
+        "Amreli_GJ"
+    ],
+    "Junagadh_GJ": [
+        "Rajkot_GJ",
+        "Amreli_GJ",
+        "Porbandar_GJ",
+        "Gir Somnath_GJ"
+    ],
+    "Porbandar_GJ": [
+        "Rajkot_GJ",
+        "Devbhumi Dwarka_GJ",
+        "Junagadh_GJ",
+        "Jamnagar_GJ"
+    ],
+    "Amreli_GJ": [
+        "Botad_GJ",
+        "Rajkot_GJ",
+        "Bhavnagar_GJ",
+        "Junagadh_GJ",
+        "Gir Somnath_GJ"
+    ],
+    "Jamnagar_GJ": [
+        "Rajkot_GJ",
+        "Devbhumi Dwarka_GJ",
+        "Morbi_GJ",
+        "Porbandar_GJ"
+    ],
+    "Meerut_UP": [
+        "Amroha_UP",
+        "Bijnor_UP",
+        "Muzaffarnagar_UP",
+        "Hapur_UP",
+        "Baghpat_UP",
+        "Ghaziabad_UP"
+    ],
+    "Amroha_UP": [
+        "Meerut_UP",
+        "Bijnor_UP",
+        "Hapur_UP",
+        "Sambhal_UP",
+        "Moradabad_UP",
+        "Bulandshahr_UP"
+    ],
+    "Hapur_UP": [
+        "Meerut_UP",
+        "Amroha_UP",
+        "Gautam Buddha Nagar_UP",
+        "Ghaziabad_UP",
+        "Bulandshahr_UP"
+    ],
+    "Aligarh_UP": [
+        "Bulandshahr_UP",
+        "Budaun_UP",
+        "Gautam Buddha Nagar_UP",
+        "Kasganj_UP",
+        "Palwal_HR",
+        "Hathras_UP",
+        "Sambhal_UP",
+        "Mathura_UP"
+    ],
+    "Bulandshahr_UP": [
+        "Amroha_UP",
+        "Gautam Buddha Nagar_UP",
+        "Hapur_UP",
+        "Aligarh_UP",
+        "Sambhal_UP"
+    ],
+    "Sambhal_UP": [
+        "Amroha_UP",
+        "Budaun_UP",
+        "Aligarh_UP",
+        "Moradabad_UP",
+        "Bulandshahr_UP"
+    ],
+    "Hathras_UP": [
+        "Kasganj_UP",
+        "Mathura_UP",
+        "Aligarh_UP",
+        "Agra_UP",
+        "Etah_UP"
+    ],
+    "Budaun_UP": [
+        "Bareilly_UP",
+        "Kasganj_UP",
+        "Rampur_UP",
+        "Aligarh_UP",
+        "Moradabad_UP",
+        "Shahjahanpur_UP",
+        "Farrukhabad_UP",
+        "Sambhal_UP"
+    ],
+    "Kasganj_UP": [
+        "Budaun_UP",
+        "Aligarh_UP",
+        "Hathras_UP",
+        "Farrukhabad_UP",
+        "Etah_UP"
+    ],
+    "Etah_UP": [
+        "Kasganj_UP",
+        "Firozabad_UP",
+        "Hathras_UP",
+        "Mainpuri_UP",
+        "Agra_UP",
+        "Farrukhabad_UP"
+    ],
+    "Shahjahanpur_UP": [
+        "Bareilly_UP",
+        "Hardoi_UP",
+        "Budaun_UP",
+        "Pilibhit_UP",
+        "Lakhimpur Kheri_UP",
+        "Farrukhabad_UP"
+    ],
+    "Firozabad_UP": [
+        "Etawah_UP",
+        "Agra_UP",
+        "Mainpuri_UP",
+        "Etah_UP"
+    ],
+    "Etawah_UP": [
+        "Jalaun_UP",
+        "Auraiya_UP",
+        "Bhind_MP",
+        "Firozabad_UP",
+        "Kannauj_UP",
+        "Mainpuri_UP",
+        "Agra_UP"
+    ],
+    "Bhind_MP": [
+        "Jalaun_UP",
+        "Gwalior_MP",
+        "Datia_MP",
+        "Morena_MP",
+        "Etawah_UP",
+        "Agra_UP",
+        "Jhansi_UP"
+    ],
+    "Farrukhabad_UP": [
+        "Hardoi_UP",
+        "Budaun_UP",
+        "Kasganj_UP",
+        "Kannauj_UP",
+        "Mainpuri_UP",
+        "Shahjahanpur_UP",
+        "Etah_UP"
+    ],
+    "Mainpuri_UP": [
+        "Kannauj_UP",
+        "Firozabad_UP",
+        "Etawah_UP",
+        "Farrukhabad_UP",
+        "Etah_UP"
+    ],
+    "Kannauj_UP": [
+        "Hardoi_UP",
+        "Farrukhabad_UP",
+        "Auraiya_UP",
+        "Mainpuri_UP",
+        "Etawah_UP",
+        "Kanpur Dehat_UP",
+        "Kanpur Nagar_UP"
+    ],
+    "Lakhimpur Kheri_UP": [
+        "Assam_AS",
+        "Hardoi_UP",
+        "Papum Pare_AR",
+        "Pilibhit_UP",
+        "Bahraich_UP",
+        "Sitapur_UP",
+        "Kamle_AR",
+        "Shahjahanpur_UP"
+    ],
+    "Bahraich_UP": [
+        "Sitapur_UP",
+        "Gonda_UP",
+        "Lakhimpur Kheri_UP",
+        "Shrawasti_UP",
+        "Barabanki_UP"
+    ],
+    "Shrawasti_UP": [
+        "Bahraich_UP",
+        "Gonda_UP",
+        "Balrampur_UP"
+    ],
+    "Sitapur_UP": [
+        "Lucknow_UP",
+        "Hardoi_UP",
+        "Bahraich_UP",
+        "Lakhimpur Kheri_UP",
+        "Barabanki_UP"
+    ],
+    "Barabanki_UP": [
+        "Lucknow_UP",
+        "Ayodhya_UP",
+        "Bahraich_UP",
+        "Gonda_UP",
+        "Sitapur_UP",
+        "Amethi_UP",
+        "Rae Bareli_UP"
+    ],
+    "Gonda_UP": [
+        "Ayodhya_UP",
+        "Bahraich_UP",
+        "Balrampur_UP",
+        "Siddharthnagar_UP",
+        "Shrawasti_UP",
+        "Barabanki_UP",
+        "Basti_UP"
+    ],
+    "Balrampur_UP": [
+        "Shrawasti_UP",
+        "Gonda_UP",
+        "Siddharthnagar_UP"
+    ],
+    "Siddharthnagar_UP": [
+        "Sant Kabir Nagar_UP",
+        "Maharajganj_UP",
+        "Gonda_UP",
+        "Balrampur_UP",
+        "Gorakhpur_UP",
+        "Basti_UP"
+    ],
+    "Maharajganj_UP": [
+        "Kushinagar_UP",
+        "Gorakhpur_UP",
+        "Siddharthnagar_UP",
+        "West Champaran_BR"
+    ],
+    "Basti_UP": [
+        "Sant Kabir Nagar_UP",
+        "Ayodhya_UP",
+        "Gonda_UP",
+        "Siddharthnagar_UP",
+        "Ambedkar Nagar_UP"
+    ],
+    "Gorakhpur_UP": [
+        "Kushinagar_UP",
+        "Sant Kabir Nagar_UP",
+        "Mau_UP",
+        "Azamgarh_UP",
+        "Maharajganj_UP",
+        "Siddharthnagar_UP",
+        "Deoria_UP",
+        "Ambedkar Nagar_UP"
+    ],
+    "Sant Kabir Nagar_UP": [
+        "Gorakhpur_UP",
+        "Basti_UP",
+        "Ambedkar Nagar_UP",
+        "Siddharthnagar_UP"
+    ],
+    "Kushinagar_UP": [
+        "Maharajganj_UP",
+        "West Champaran_BR",
+        "Deoria_UP",
+        "Gopalganj_BR",
+        "Gorakhpur_UP"
+    ],
+    "Deoria_UP": [
+        "Kushinagar_UP",
+        "Siwan_BR",
+        "Mau_UP",
+        "Gopalganj_BR",
+        "Gorakhpur_UP",
+        "Ballia_UP"
+    ],
+    "Kanpur Dehat_UP": [
+        "Jalaun_UP",
+        "Hamirpur_UP",
+        "Kannauj_UP",
+        "Auraiya_UP",
+        "Kanpur Nagar_UP"
+    ],
+    "Hamirpur_UP": [
+        "Mahoba_UP",
+        "Jalaun_UP",
+        "Fatehpur_UP",
+        "Kanpur Dehat_UP",
+        "Banda_UP",
+        "Kanpur Nagar_UP",
+        "Jhansi_UP"
+    ],
+    "Auraiya_UP": [
+        "Kanpur Dehat_UP",
+        "Jalaun_UP",
+        "Kannauj_UP",
+        "Etawah_UP"
+    ],
+    "Jalaun_UP": [
+        "Hamirpur_UP",
+        "Auraiya_UP",
+        "Bhind_MP",
+        "Etawah_UP",
+        "Kanpur Dehat_UP",
+        "Jhansi_UP"
+    ],
+    "Jhansi_UP": [
+        "Mahoba_UP",
+        "Jalaun_UP",
+        "Niwari_MP",
+        "Tikamgarh_MP",
+        "Hamirpur_UP",
+        "Chhatarpur_MP",
+        "Bhind_MP",
+        "Shivpuri_MP",
+        "Datia_MP",
+        "Lalitpur_UP"
+    ],
+    "Lalitpur_UP": [
+        "Niwari_MP",
+        "Tikamgarh_MP",
+        "Ashoknagar_MP",
+        "Chhatarpur_MP",
+        "Shivpuri_MP",
+        "Datia_MP",
+        "Sagar_MP",
+        "Jhansi_UP"
+    ],
+    "Mahoba_UP": [
+        "Banda_UP",
+        "Chhatarpur_MP",
+        "Jhansi_UP",
+        "Hamirpur_UP"
+    ],
+    "Datia_MP": [
+        "Gwalior_MP",
+        "Bhind_MP",
+        "Shivpuri_MP",
+        "Lalitpur_UP",
+        "Jhansi_UP"
+    ],
+    "Chhatarpur_MP": [
+        "Mahoba_UP",
+        "Tikamgarh_MP",
+        "Damoh_MP",
+        "Panna_MP",
+        "Sagar_MP",
+        "Banda_UP",
+        "Lalitpur_UP",
+        "Jhansi_UP"
+    ],
+    "Tikamgarh_MP": [
+        "Niwari_MP",
+        "Chhatarpur_MP",
+        "Lalitpur_UP",
+        "Jhansi_UP"
+    ],
+    "Niwari_MP": [
+        "Lalitpur_UP",
+        "Jhansi_UP",
+        "Tikamgarh_MP"
+    ],
+    "Sagar_MP": [
+        "Ashoknagar_MP",
+        "Damoh_MP",
+        "Narsinghpur_MP",
+        "Chhatarpur_MP",
+        "Vidisha_MP",
+        "Raisen_MP",
+        "Lalitpur_UP"
+    ],
+    "Ashoknagar_MP": [
+        "Guna_MP",
+        "Shivpuri_MP",
+        "Vidisha_MP",
+        "Sagar_MP",
+        "Lalitpur_UP"
+    ],
+    "Ayodhya_UP": [
+        "Ambedkar Nagar_UP",
+        "Gonda_UP",
+        "Amethi_UP",
+        "Barabanki_UP",
+        "Basti_UP",
+        "Sultanpur_UP"
+    ],
+    "Amethi_UP": [
+        "Ayodhya_UP",
+        "Pratapgarh_UP",
+        "Rae Bareli_UP",
+        "Barabanki_UP",
+        "Sultanpur_UP"
+    ],
+    "Ambedkar Nagar_UP": [
+        "Sant Kabir Nagar_UP",
+        "Ayodhya_UP",
+        "Azamgarh_UP",
+        "Gorakhpur_UP",
+        "Basti_UP",
+        "Sultanpur_UP"
+    ],
+    "Sultanpur_UP": [
+        "Ayodhya_UP",
+        "Azamgarh_UP",
+        "Amethi_UP",
+        "Pratapgarh_UP",
+        "Jaunpur_UP",
+        "Ambedkar Nagar_UP"
+    ],
+    "Banda_UP": [
+        "Mahoba_UP",
+        "Hamirpur_UP",
+        "Chhatarpur_MP",
+        "Panna_MP",
+        "Fatehpur_UP",
+        "Chitrakoot_UP",
+        "Satna_MP"
+    ],
+    "Kaushambi_UP": [
+        "Pratapgarh_UP",
+        "Fatehpur_UP",
+        "Rae Bareli_UP",
+        "Chitrakoot_UP",
+        "Prayagraj_UP"
+    ],
+    "Pratapgarh_UP": [
+        "Kaushambi_UP",
+        "Amethi_UP",
+        "Fatehpur_UP",
+        "Jaunpur_UP",
+        "Rae Bareli_UP",
+        "Prayagraj_UP",
+        "Sultanpur_UP"
+    ],
+    "Chitrakoot_UP": [
+        "Kaushambi_UP",
+        "Fatehpur_UP",
+        "Banda_UP",
+        "Prayagraj_UP",
+        "Satna_MP",
+        "Rewa_MP"
+    ],
+    "Prayagraj_UP": [
+        "Kaushambi_UP",
+        "Pratapgarh_UP",
+        "Mirzapur_UP",
+        "Jaunpur_UP",
+        "Chitrakoot_UP",
+        "Bhadohi_UP",
+        "Rewa_MP"
+    ],
+    "Jaunpur_UP": [
+        "Ghazipur_UP",
+        "Azamgarh_UP",
+        "Pratapgarh_UP",
+        "Prayagraj_UP",
+        "Varanasi_UP",
+        "Bhadohi_UP",
+        "Sultanpur_UP"
+    ],
+    "Mirzapur_UP": [
+        "Sonbhadra_UP",
+        "Singrauli_MP",
+        "Prayagraj_UP",
+        "Varanasi_UP",
+        "Bhadohi_UP",
+        "Rewa_MP",
+        "Chandauli_UP"
+    ],
+    "Bhadohi_UP": [
+        "Mirzapur_UP",
+        "Prayagraj_UP",
+        "Varanasi_UP",
+        "Jaunpur_UP"
+    ],
+    "Rewa_MP": [
+        "Singrauli_MP",
+        "Mirzapur_UP",
+        "Chitrakoot_UP",
+        "Prayagraj_UP",
+        "Satna_MP",
+        "Sidhi_MP"
+    ],
+    "Panna_MP": [
+        "Damoh_MP",
+        "Chhatarpur_MP",
+        "Katni_MP",
+        "Banda_UP",
+        "Satna_MP"
+    ],
+    "Satna_MP": [
+        "Umaria_MP",
+        "Shahdol_MP",
+        "Sidhi_MP",
+        "Katni_MP",
+        "Chitrakoot_UP",
+        "Panna_MP",
+        "Banda_UP",
+        "Rewa_MP"
+    ],
+    "Azamgarh_UP": [
+        "Mau_UP",
+        "Ghazipur_UP",
+        "Sultanpur_UP",
+        "Jaunpur_UP",
+        "Gorakhpur_UP",
+        "Ambedkar Nagar_UP"
+    ],
+    "Ghazipur_UP": [
+        "Mau_UP",
+        "Kaimur_BR",
+        "Azamgarh_UP",
+        "Buxar_BR",
+        "Jaunpur_UP",
+        "Varanasi_UP",
+        "Ballia_UP",
+        "Chandauli_UP"
+    ],
+    "Mau_UP": [
+        "Ghazipur_UP",
+        "Azamgarh_UP",
+        "Deoria_UP",
+        "Gorakhpur_UP",
+        "Ballia_UP"
+    ],
+    "Ballia_UP": [
+        "Bhojpur_BR",
+        "Saran_BR",
+        "Siwan_BR",
+        "Mau_UP",
+        "Ghazipur_UP",
+        "Buxar_BR",
+        "Deoria_UP"
+    ],
+    "Siwan_BR": [
+        "Gopalganj_BR",
+        "Saran_BR",
+        "Ballia_UP",
+        "Deoria_UP"
+    ],
+    "Saran_BR": [
+        "Patna_BR",
+        "Muzaffarpur_BR",
+        "Bhojpur_BR",
+        "Siwan_BR",
+        "Gopalganj_BR",
+        "Vaishali_BR",
+        "Ballia_UP"
+    ],
+    "Bhojpur_BR": [
+        "Patna_BR",
+        "Saran_BR",
+        "Arwal_BR",
+        "Buxar_BR",
+        "Ballia_UP",
+        "Rohtas_BR"
+    ],
+    "Buxar_BR": [
+        "Bhojpur_BR",
+        "Ghazipur_UP",
+        "Kaimur_BR",
+        "Ballia_UP",
+        "Rohtas_BR"
+    ],
+    "Chandauli_UP": [
+        "Sonbhadra_UP",
+        "Ghazipur_UP",
+        "Kaimur_BR",
+        "Mirzapur_UP",
+        "Varanasi_UP"
+    ],
+    "Varanasi_UP": [
+        "Ghazipur_UP",
+        "Mirzapur_UP",
+        "Jaunpur_UP",
+        "Bhadohi_UP",
+        "Chandauli_UP"
+    ],
+    "Kaimur_BR": [
+        "Sonbhadra_UP",
+        "Ghazipur_UP",
+        "Buxar_BR",
+        "Rohtas_BR",
+        "Chandauli_UP"
+    ],
+    "Sonbhadra_UP": [
+        "Garhwa_JH",
+        "Singrauli_MP",
+        "Kaimur_BR",
+        "Balrampur_CT",
+        "Mirzapur_UP",
+        "Rohtas_BR",
+        "Chandauli_UP"
+    ],
+    "Singrauli_MP": [
+        "Sonbhadra_UP",
+        "Surajpur_CT",
+        "Sidhi_MP",
+        "Balrampur_CT",
+        "Mirzapur_UP",
+        "Koriya_CT",
+        "Rewa_MP"
+    ],
+    "Rohtas_BR": [
+        "Bhojpur_BR",
+        "Sonbhadra_UP",
+        "Garhwa_JH",
+        "Kaimur_BR",
+        "Arwal_BR",
+        "Palamu_JH",
+        "Buxar_BR",
+        "Aurangabad_BR"
+    ],
+    "Garhwa_JH": [
+        "Sonbhadra_UP",
+        "Latehar_JH",
+        "Palamu_JH",
+        "Balrampur_CT",
+        "Rohtas_BR"
+    ],
+    "Balrampur_CT": [
+        "Sonbhadra_UP",
+        "Garhwa_JH",
+        "Latehar_JH",
+        "Gumla_JH",
+        "Surguja_CT",
+        "Surajpur_CT",
+        "Singrauli_MP",
+        "Jashpur_CT"
+    ],
+    "Munger_BR": [
+        "Bhagalpur_BR",
+        "Jamui_BR",
+        "Khagaria_BR",
+        "Banka_BR",
+        "Lakhisarai_BR",
+        "Begusarai_BR"
+    ],
+    "Godda_JH": [
+        "Bhagalpur_BR",
+        "Pakur_JH",
+        "Sahibganj_JH",
+        "Banka_BR",
+        "Dumka_JH"
+    ],
+    "Banka_BR": [
+        "Munger_BR",
+        "Bhagalpur_BR",
+        "Godda_JH",
+        "Deoghar_JH",
+        "Jamui_BR",
+        "Dumka_JH"
+    ],
+    "Begusarai_BR": [
+        "Patna_BR",
+        "Munger_BR",
+        "Samastipur_BR",
+        "Khagaria_BR",
+        "Lakhisarai_BR"
+    ],
+    "Lakhisarai_BR": [
+        "Patna_BR",
+        "Munger_BR",
+        "Sheikhpura_BR",
+        "Nalanda_BR",
+        "Jamui_BR",
+        "Begusarai_BR"
+    ],
+    "Jamui_BR": [
+        "Munger_BR",
+        "Sheikhpura_BR",
+        "Banka_BR",
+        "Deoghar_JH",
+        "Giridih_JH",
+        "Nawada_BR",
+        "Lakhisarai_BR"
+    ],
+    "Deoghar_JH": [
+        "Jamui_BR",
+        "Giridih_JH",
+        "Jamtara_JH",
+        "Banka_BR",
+        "Dumka_JH"
+    ],
+    "Giridih_JH": [
+        "Dhanbad_JH",
+        "Bokaro_JH",
+        "Deoghar_JH",
+        "Koderma_JH",
+        "Jamui_BR",
+        "Hazaribagh_JH",
+        "Jamtara_JH",
+        "Nawada_BR"
+    ],
+    "Dumka_JH": [
+        "Birbhum_WB",
+        "Godda_JH",
+        "Pakur_JH",
+        "Deoghar_JH",
+        "Jamtara_JH",
+        "Banka_BR"
+    ],
+    "Jamtara_JH": [
+        "Birbhum_WB",
+        "Dhanbad_JH",
+        "Paschim Bardhaman_WB",
+        "Deoghar_JH",
+        "Giridih_JH",
+        "Dumka_JH"
+    ],
+    "Vaishali_BR": [
+        "Patna_BR",
+        "Samastipur_BR",
+        "Saran_BR",
+        "Muzaffarpur_BR"
+    ],
+    "Patna_BR": [
+        "Bhojpur_BR",
+        "Saran_BR",
+        "Nalanda_BR",
+        "Lakhisarai_BR",
+        "Jehanabad_BR",
+        "Samastipur_BR",
+        "Vaishali_BR",
+        "Arwal_BR",
+        "Begusarai_BR"
+    ],
+    "Arwal_BR": [
+        "Patna_BR",
+        "Bhojpur_BR",
+        "Jehanabad_BR",
+        "Gaya_BR",
+        "Aurangabad_BR",
+        "Rohtas_BR"
+    ],
+    "Jehanabad_BR": [
+        "Patna_BR",
+        "Nalanda_BR",
+        "Gaya_BR",
+        "Arwal_BR"
+    ],
+    "Nalanda_BR": [
+        "Patna_BR",
+        "Sheikhpura_BR",
+        "Jehanabad_BR",
+        "Gaya_BR",
+        "Nawada_BR",
+        "Lakhisarai_BR"
+    ],
+    "Aurangabad_BR": [
+        "Rohtas_BR",
+        "Gaya_BR",
+        "Arwal_BR",
+        "Palamu_JH"
+    ],
+    "Palamu_JH": [
+        "Garhwa_JH",
+        "Latehar_JH",
+        "Gaya_BR",
+        "Rohtas_BR",
+        "Aurangabad_BR",
+        "Chatra_JH"
+    ],
+    "Gaya_BR": [
+        "Nalanda_BR",
+        "Jehanabad_BR",
+        "Arwal_BR",
+        "Palamu_JH",
+        "Hazaribagh_JH",
+        "Koderma_JH",
+        "Nawada_BR",
+        "Aurangabad_BR",
+        "Chatra_JH"
+    ],
+    "Nawada_BR": [
+        "Sheikhpura_BR",
+        "Nalanda_BR",
+        "Gaya_BR",
+        "Jamui_BR",
+        "Giridih_JH",
+        "Koderma_JH"
+    ],
+    "Chatra_JH": [
+        "Latehar_JH",
+        "Ranchi_JH",
+        "Gaya_BR",
+        "Palamu_JH",
+        "Hazaribagh_JH"
+    ],
+    "Koderma_JH": [
+        "Hazaribagh_JH",
+        "Nawada_BR",
+        "Gaya_BR",
+        "Giridih_JH"
+    ],
+    "Hazaribagh_JH": [
+        "Ranchi_JH",
+        "Gaya_BR",
+        "Giridih_JH",
+        "Koderma_JH",
+        "Bokaro_JH",
+        "Chatra_JH",
+        "Ramgarh_JH"
+    ],
+    "Sheikhpura_BR": [
+        "Jamui_BR",
+        "Nawada_BR",
+        "Nalanda_BR",
+        "Lakhisarai_BR"
+    ],
+    "Birbhum_WB": [
+        "Purba Bardhaman_WB",
+        "Paschim Bardhaman_WB",
+        "Pakur_JH",
+        "Murshidabad_WB",
+        "Jamtara_JH",
+        "Dumka_JH"
+    ],
+    "Purba Bardhaman_WB": [
+        "Nadia_WB",
+        "Birbhum_WB",
+        "Bankura_WB",
+        "Paschim Bardhaman_WB",
+        "Murshidabad_WB",
+        "Hooghly_WB"
+    ],
+    "Pakur_JH": [
+        "Birbhum_WB",
+        "Godda_JH",
+        "Murshidabad_WB",
+        "Sahibganj_JH",
+        "Dumka_JH"
+    ],
+    "Paschim Bardhaman_WB": [
+        "Birbhum_WB",
+        "Bankura_WB",
+        "Purba Bardhaman_WB",
+        "Dhanbad_JH",
+        "Purulia_WB",
+        "Jamtara_JH"
+    ],
+    "Nadia_WB": [
+        "North 24 Parganas_WB",
+        "Hooghly_WB",
+        "Purba Bardhaman_WB",
+        "Murshidabad_WB"
+    ],
+    "Hooghly_WB": [
+        "North 24 Parganas_WB",
+        "Nadia_WB",
+        "Bankura_WB",
+        "Purba Bardhaman_WB",
+        "Howrah_WB",
+        "Paschim Medinipur_WB"
+    ],
+    "North 24 Parganas_WB": [
+        "Nadia_WB",
+        "Howrah_WB",
+        "Kolkata_WB",
+        "South 24 Parganas_WB",
+        "Hooghly_WB"
+    ],
+    "Bankura_WB": [
+        "Purba Bardhaman_WB",
+        "Paschim Bardhaman_WB",
+        "Purulia_WB",
+        "Jhargram_WB",
+        "Paschim Medinipur_WB",
+        "Manipur_MN",
+        "Hooghly_WB"
+    ],
+    "Paschim Medinipur_WB": [
+        "Purba Medinipur_WB",
+        "Bankura_WB",
+        "Howrah_WB",
+        "Balasore_OR",
+        "Jhargram_WB",
+        "Hooghly_WB"
+    ],
+    "Howrah_WB": [
+        "Purba Medinipur_WB",
+        "North 24 Parganas_WB",
+        "Kolkata_WB",
+        "South 24 Parganas_WB",
+        "Paschim Medinipur_WB",
+        "Hooghly_WB"
+    ],
+    "Purulia_WB": [
+        "Bankura_WB",
+        "Dhanbad_JH",
+        "Paschim Bardhaman_WB",
+        "Ranchi_JH",
+        "Saraikela-Kharsawan_JH",
+        "Jhargram_WB",
+        "East Singhbhum_JH",
+        "Bokaro_JH",
+        "Ramgarh_JH"
+    ],
+    "Jhargram_WB": [
+        "Bankura_WB",
+        "Purulia_WB",
+        "Balasore_OR",
+        "Mayurbhanj_OR",
+        "East Singhbhum_JH",
+        "Paschim Medinipur_WB"
+    ],
+    "Ranchi_JH": [
+        "Latehar_JH",
+        "Lohardaga_JH",
+        "Gumla_JH",
+        "Saraikela-Kharsawan_JH",
+        "Purulia_WB",
+        "Khunti_JH",
+        "Hazaribagh_JH",
+        "Chatra_JH",
+        "Ramgarh_JH"
+    ],
+    "East Singhbhum_JH": [
+        "Mayurbhanj_OR",
+        "Saraikela-Kharsawan_JH",
+        "Purulia_WB",
+        "Jhargram_WB"
+    ],
+    "Bokaro_JH": [
+        "Dhanbad_JH",
+        "Purulia_WB",
+        "Hazaribagh_JH",
+        "Giridih_JH",
+        "Ramgarh_JH"
+    ],
+    "Dhanbad_JH": [
+        "Paschim Bardhaman_WB",
+        "Purulia_WB",
+        "Giridih_JH",
+        "Jamtara_JH",
+        "Bokaro_JH"
+    ],
+    "Ramgarh_JH": [
+        "Ranchi_JH",
+        "Bokaro_JH",
+        "Purulia_WB",
+        "Hazaribagh_JH"
+    ],
+    "Saraikela-Kharsawan_JH": [
+        "West Singhbhum_JH",
+        "Ranchi_JH",
+        "Purulia_WB",
+        "Khunti_JH",
+        "Mayurbhanj_OR",
+        "East Singhbhum_JH"
+    ],
+    "Balasore_OR": [
+        "Bhadrak_OR",
+        "Purba Medinipur_WB",
+        "Mayurbhanj_OR",
+        "Paschim Medinipur_WB",
+        "Jhargram_WB",
+        "Kendujhar_OR"
+    ],
+    "Purba Medinipur_WB": [
+        "Paschim Medinipur_WB",
+        "Balasore_OR",
+        "Howrah_WB",
+        "South 24 Parganas_WB"
+    ],
+    "Latehar_JH": [
+        "Garhwa_JH",
+        "Lohardaga_JH",
+        "Gumla_JH",
+        "Ranchi_JH",
+        "Palamu_JH",
+        "Balrampur_CT",
+        "Chatra_JH"
+    ],
+    "Gumla_JH": [
+        "Latehar_JH",
+        "Lohardaga_JH",
+        "Ranchi_JH",
+        "Jashpur_CT",
+        "Balrampur_CT",
+        "Khunti_JH",
+        "Simdega_JH"
+    ],
+    "Lohardaga_JH": [
+        "Ranchi_JH",
+        "Latehar_JH",
+        "Gumla_JH"
+    ],
+    "Jashpur_CT": [
+        "Sundargarh_OR",
+        "Surguja_CT",
+        "Gumla_JH",
+        "Balrampur_CT",
+        "Simdega_JH",
+        "Raigarh_CT"
+    ],
+    "Khunti_JH": [
+        "West Singhbhum_JH",
+        "Gumla_JH",
+        "Ranchi_JH",
+        "Saraikela-Kharsawan_JH",
+        "Simdega_JH"
+    ],
+    "Simdega_JH": [
+        "Sundargarh_OR",
+        "West Singhbhum_JH",
+        "Gumla_JH",
+        "Jashpur_CT",
+        "Khunti_JH"
+    ],
+    "West Singhbhum_JH": [
+        "Sundargarh_OR",
+        "Kendujhar_OR",
+        "Saraikela-Kharsawan_JH",
+        "Khunti_JH",
+        "Mayurbhanj_OR",
+        "Simdega_JH"
+    ],
+    "Sundargarh_OR": [
+        "West Singhbhum_JH",
+        "Kendujhar_OR",
+        "Jashpur_CT",
+        "Jharsuguda_OR",
+        "Simdega_JH",
+        "Angul_OR",
+        "Sambalpur_OR",
+        "Deogarh_OR",
+        "Raigarh_CT"
+    ],
+    "Kendujhar_OR": [
+        "Sundargarh_OR",
+        "West Singhbhum_JH",
+        "Dhenkanal_OR",
+        "Balasore_OR",
+        "Mayurbhanj_OR",
+        "Angul_OR",
+        "Jajpur_OR",
+        "Bhadrak_OR"
+    ],
+    "Mayurbhanj_OR": [
+        "West Singhbhum_JH",
+        "Saraikela-Kharsawan_JH",
+        "Balasore_OR",
+        "Jhargram_WB",
+        "East Singhbhum_JH",
+        "Kendujhar_OR"
+    ],
+    "Surguja_CT": [
+        "Surajpur_CT",
+        "Jashpur_CT",
+        "Balrampur_CT",
+        "Korba_CT",
+        "Raigarh_CT"
+    ],
+    "Raigarh_CT": [
+        "Sundargarh_OR",
+        "Baloda Bazar_CT",
+        "Surguja_CT",
+        "Mahasamund_CT",
+        "Jashpur_CT",
+        "Jharsuguda_OR",
+        "Janjgir Champa_CT",
+        "Bargarh_OR",
+        "Korba_CT"
+    ],
+    "Korba_CT": [
+        "Surguja_CT",
+        "Surajpur_CT",
+        "Janjgir Champa_CT",
+        "Koriya_CT",
+        "Bilaspur_CT",
+        "Raigarh_CT"
+    ],
+    "Surajpur_CT": [
+        "Surguja_CT",
+        "Singrauli_MP",
+        "Balrampur_CT",
+        "Koriya_CT",
+        "Korba_CT"
+    ],
+    "Bilaspur_CT": [
+        "Baloda Bazar_CT",
+        "Mungeli_CT",
+        "Anuppur_MP",
+        "Janjgir Champa_CT",
+        "Koriya_CT",
+        "Korba_CT"
+    ],
+    "Koriya_CT": [
+        "Shahdol_MP",
+        "Surajpur_CT",
+        "Singrauli_MP",
+        "Anuppur_MP",
+        "Korba_CT",
+        "Sidhi_MP",
+        "Bilaspur_CT"
+    ],
+    "Baloda Bazar_CT": [
+        "Raipur_CT",
+        "Mungeli_CT",
+        "Bametara_CT",
+        "Mahasamund_CT",
+        "Janjgir Champa_CT",
+        "Bilaspur_CT",
+        "Raigarh_CT"
+    ],
+    "Janjgir Champa_CT": [
+        "Bilaspur_CT",
+        "Baloda Bazar_CT",
+        "Korba_CT",
+        "Raigarh_CT"
+    ],
+    "Mungeli_CT": [
+        "Baloda Bazar_CT",
+        "Bametara_CT",
+        "Dindori_MP",
+        "Anuppur_MP",
+        "Bilaspur_CT",
+        "Kabeerdham_CT"
+    ],
+    "Anuppur_MP": [
+        "Mungeli_CT",
+        "Umaria_MP",
+        "Dindori_MP",
+        "Shahdol_MP",
+        "Koriya_CT",
+        "Bilaspur_CT"
+    ],
+    "Sidhi_MP": [
+        "Shahdol_MP",
+        "Singrauli_MP",
+        "Koriya_CT",
+        "Satna_MP",
+        "Rewa_MP"
+    ],
+    "Shahdol_MP": [
+        "Umaria_MP",
+        "Anuppur_MP",
+        "Koriya_CT",
+        "Satna_MP",
+        "Sidhi_MP"
+    ],
+    "Mahasamund_CT": [
+        "Raipur_CT",
+        "Baloda Bazar_CT",
+        "Nuapada_OR",
+        "Bargarh_OR",
+        "Gariaband_CT",
+        "Raigarh_CT"
+    ],
+    "Bargarh_OR": [
+        "Subarnapur_OR",
+        "Balangir_OR",
+        "Mahasamund_CT",
+        "Jharsuguda_OR",
+        "Nuapada_OR",
+        "Sambalpur_OR",
+        "Raigarh_CT"
+    ],
+    "Jharsuguda_OR": [
+        "Sundargarh_OR",
+        "Bargarh_OR",
+        "Sambalpur_OR",
+        "Raigarh_CT"
+    ],
+    "Raipur_CT": [
+        "Baloda Bazar_CT",
+        "Bametara_CT",
+        "Mahasamund_CT",
+        "Durg_CT",
+        "Dhamtari_CT",
+        "Gariaband_CT"
+    ],
+    "Nuapada_OR": [
+        "Balangir_OR",
+        "Kalahandi_OR",
+        "Mahasamund_CT",
+        "Bargarh_OR",
+        "Gariaband_CT"
+    ],
+    "Gariaband_CT": [
+        "Raipur_CT",
+        "Kalahandi_OR",
+        "Mahasamund_CT",
+        "Nuapada_OR",
+        "Dhamtari_CT",
+        "Nabarangapur_OR"
+    ],
+    "Durg_CT": [
+        "Rajnandgaon_CT",
+        "Raipur_CT",
+        "Balod_CT",
+        "Bametara_CT",
+        "Dhamtari_CT"
+    ],
+    "Dhamtari_CT": [
+        "Raipur_CT",
+        "Balod_CT",
+        "Kondagaon_CT",
+        "Durg_CT",
+        "Nabarangapur_OR",
+        "Gariaband_CT",
+        "Uttar Bastar Kanker_CT"
+    ],
+    "Bametara_CT": [
+        "Rajnandgaon_CT",
+        "Raipur_CT",
+        "Baloda Bazar_CT",
+        "Mungeli_CT",
+        "Durg_CT",
+        "Kabeerdham_CT"
+    ],
+    "Rajnandgaon_CT": [
+        "Gondia_MH",
+        "Gadchiroli_MH",
+        "Bametara_CT",
+        "Balod_CT",
+        "Balaghat_MP",
+        "Durg_CT",
+        "Kabeerdham_CT",
+        "Uttar Bastar Kanker_CT"
+    ],
+    "Balod_CT": [
+        "Rajnandgaon_CT",
+        "Dhamtari_CT",
+        "Durg_CT",
+        "Uttar Bastar Kanker_CT"
+    ],
+    "Kabeerdham_CT": [
+        "Rajnandgaon_CT",
+        "Mungeli_CT",
+        "Bametara_CT",
+        "Dindori_MP",
+        "Balaghat_MP",
+        "Mandla_MP"
+    ],
+    "Balaghat_MP": [
+        "Rajnandgaon_CT",
+        "Gondia_MH",
+        "Bhandara_MH",
+        "Seoni_MP",
+        "Mandla_MP",
+        "Nagpur_MH",
+        "Kabeerdham_CT"
+    ],
+    "Dindori_MP": [
+        "Mungeli_CT",
+        "Umaria_MP",
+        "Mandla_MP",
+        "Jabalpur_MP",
+        "Anuppur_MP",
+        "Kabeerdham_CT"
+    ],
+    "Mandla_MP": [
+        "Dindori_MP",
+        "Balaghat_MP",
+        "Seoni_MP",
+        "Jabalpur_MP",
+        "Kabeerdham_CT"
+    ],
+    "Uttar Bastar Kanker_CT": [
+        "Rajnandgaon_CT",
+        "Balod_CT",
+        "Gadchiroli_MH",
+        "Kondagaon_CT",
+        "Narayanpur_CT",
+        "Dhamtari_CT"
+    ],
+    "Gondia_MH": [
+        "Bhandara_MH",
+        "Balaghat_MP",
+        "Rajnandgaon_CT",
+        "Gadchiroli_MH"
+    ],
+    "Gadchiroli_MH": [
+        "Rajnandgaon_CT",
+        "Gondia_MH",
+        "Bhandara_MH",
+        "Chandrapur_MH",
+        "Telangana_TN",
+        "Narayanpur_CT",
+        "Bijapur_CT",
+        "Manipur_MN",
+        "Uttar Bastar Kanker_CT"
+    ],
+    "Bastar_CT": [
+        "Malkangiri_OR",
+        "Kondagaon_CT",
+        "Sukma_CT",
+        "Koraput_OR",
+        "Nabarangapur_OR",
+        "Dakshin Bastar Dantewada_CT"
+    ],
+    "Dakshin Bastar Dantewada_CT": [
+        "Kondagaon_CT",
+        "Sukma_CT",
+        "Bastar_CT",
+        "Narayanpur_CT",
+        "Bijapur_CT"
+    ],
+    "Nabarangapur_OR": [
+        "Kondagaon_CT",
+        "Kalahandi_OR",
+        "Bastar_CT",
+        "Koraput_OR",
+        "Dhamtari_CT",
+        "Gariaband_CT"
+    ],
+    "Koraput_OR": [
+        "Malkangiri_OR",
+        "Rayagada_OR",
+        "Kalahandi_OR",
+        "Visakhapatnam_AP",
+        "Bastar_CT",
+        "Vizianagaram_AP",
+        "Nabarangapur_OR"
+    ],
+    "Malkangiri_OR": [
+        "Sukma_CT",
+        "Bastar_CT",
+        "Visakhapatnam_AP",
+        "Koraput_OR",
+        "East Godavari_AP"
+    ],
+    "Sukma_CT": [
+        "Malkangiri_OR",
+        "Telangana_TN",
+        "Bastar_CT",
+        "Bijapur_CT",
+        "East Godavari_AP",
+        "Dakshin Bastar Dantewada_CT"
+    ],
+    "Kondagaon_CT": [
+        "Uttar Bastar Kanker_CT",
+        "Bastar_CT",
+        "Narayanpur_CT",
+        "Dhamtari_CT",
+        "Nabarangapur_OR",
+        "Dakshin Bastar Dantewada_CT"
+    ],
+    "Bijapur_CT": [
+        "Gadchiroli_MH",
+        "Telangana_TN",
+        "Sukma_CT",
+        "Narayanpur_CT",
+        "Manipur_MN",
+        "Dakshin Bastar Dantewada_CT"
+    ],
+    "Narayanpur_CT": [
+        "Gadchiroli_MH",
+        "Kondagaon_CT",
+        "Bijapur_CT",
+        "Uttar Bastar Kanker_CT",
+        "Dakshin Bastar Dantewada_CT"
+    ],
+    "Gwalior_MP": [
+        "Bhind_MP",
+        "Shivpuri_MP",
+        "Morena_MP",
+        "Datia_MP"
+    ],
+    "Bhopal_MP": [
+        "Guna_MP",
+        "Rajgarh_MP",
+        "Sehore_MP",
+        "Vidisha_MP",
+        "Raisen_MP"
+    ],
+    "Vidisha_MP": [
+        "Guna_MP",
+        "Ashoknagar_MP",
+        "Sagar_MP",
+        "Raisen_MP",
+        "Bhopal_MP"
+    ],
+    "Damoh_MP": [
+        "Narsinghpur_MP",
+        "Chhatarpur_MP",
+        "Katni_MP",
+        "Jabalpur_MP",
+        "Panna_MP",
+        "Sagar_MP"
+    ],
+    "Katni_MP": [
+        "Umaria_MP",
+        "Damoh_MP",
+        "Jabalpur_MP",
+        "Panna_MP",
+        "Satna_MP"
+    ],
+    "Umaria_MP": [
+        "Dindori_MP",
+        "Shahdol_MP",
+        "Katni_MP",
+        "Jabalpur_MP",
+        "Anuppur_MP",
+        "Satna_MP"
+    ],
+    "Sehore_MP": [
+        "Hoshangabad_MP",
+        "Rajgarh_MP",
+        "Shajapur_MP",
+        "Dewas_MP",
+        "Raisen_MP",
+        "Harda_MP",
+        "Bhopal_MP"
+    ],
+    "Raisen_MP": [
+        "Hoshangabad_MP",
+        "Narsinghpur_MP",
+        "Sehore_MP",
+        "Vidisha_MP",
+        "Sagar_MP",
+        "Bhopal_MP"
+    ],
+    "Narsinghpur_MP": [
+        "Hoshangabad_MP",
+        "Chhindwara_MP",
+        "Damoh_MP",
+        "Seoni_MP",
+        "Jabalpur_MP",
+        "Sagar_MP",
+        "Raisen_MP"
+    ],
+    "Shajapur_MP": [
+        "Ujjain_MP",
+        "Rajgarh_MP",
+        "Sehore_MP",
+        "Agar Malwa_MP",
+        "Dewas_MP"
+    ],
+    "Dhar_MP": [
+        "Ratlam_MP",
+        "Ujjain_MP",
+        "Jhabua_MP",
+        "Alirajpur_MP",
+        "Khargone_MP",
+        "Indore_MP",
+        "Barwani_MP"
+    ],
+    "Ujjain_MP": [
+        "Ratlam_MP",
+        "Shajapur_MP",
+        "Dhar_MP",
+        "Agar Malwa_MP",
+        "Indore_MP",
+        "Dewas_MP"
+    ],
+    "Dewas_MP": [
+        "Ujjain_MP",
+        "Shajapur_MP",
+        "Khargone_MP",
+        "Sehore_MP",
+        "Khandwa_MP",
+        "Indore_MP",
+        "Harda_MP"
+    ],
+    "Indore_MP": [
+        "Khargone_MP",
+        "Dhar_MP",
+        "Ujjain_MP",
+        "Dewas_MP"
+    ],
+    "Barwani_MP": [
+        "Dhule_MH",
+        "Dhar_MP",
+        "Nandurbar_MH",
+        "Alirajpur_MP",
+        "Khargone_MP",
+        "Jalgaon_MH"
+    ],
+    "Khargone_MP": [
+        "Dhar_MP",
+        "Burhanpur_MP",
+        "Khandwa_MP",
+        "Indore_MP",
+        "Dewas_MP",
+        "Jalgaon_MH",
+        "Barwani_MP"
+    ],
+    "Jalgaon_MH": [
+        "Dhule_MH",
+        "Burhanpur_MP",
+        "Nashik_MH",
+        "Khargone_MP",
+        "Buldhana_MH",
+        "Jalna_MH",
+        "Aurangabad_MH",
+        "Barwani_MP"
+    ],
+    "Khandwa_MP": [
+        "Betul_MP",
+        "Burhanpur_MP",
+        "Amravati_MH",
+        "Khargone_MP",
+        "Dewas_MP",
+        "Harda_MP"
+    ],
+    "Harda_MP": [
+        "Hoshangabad_MP",
+        "Betul_MP",
+        "Sehore_MP",
+        "Khandwa_MP",
+        "Dewas_MP"
+    ],
+    "Betul_MP": [
+        "Hoshangabad_MP",
+        "Chhindwara_MP",
+        "Amravati_MH",
+        "Khandwa_MP",
+        "Harda_MP"
+    ],
+    "Amravati_MH": [
+        "Betul_MP",
+        "Chhindwara_MP",
+        "Burhanpur_MP",
+        "Yavatmal_MH",
+        "Khandwa_MP",
+        "Washim_MH",
+        "Buldhana_MH",
+        "Nagpur_MH",
+        "Akola_MH",
+        "Wardha_MH"
+    ],
+    "Burhanpur_MP": [
+        "Amravati_MH",
+        "Khargone_MP",
+        "Khandwa_MP",
+        "Buldhana_MH",
+        "Jalgaon_MH"
+    ],
+    "Hoshangabad_MP": [
+        "Betul_MP",
+        "Chhindwara_MP",
+        "Narsinghpur_MP",
+        "Sehore_MP",
+        "Raisen_MP",
+        "Harda_MP"
+    ],
+    "Chhindwara_MP": [
+        "Hoshangabad_MP",
+        "Betul_MP",
+        "Amravati_MH",
+        "Narsinghpur_MP",
+        "Seoni_MP",
+        "Nagpur_MH"
+    ],
+    "Jabalpur_MP": [
+        "Umaria_MP",
+        "Dindori_MP",
+        "Damoh_MP",
+        "Narsinghpur_MP",
+        "Seoni_MP",
+        "Mandla_MP",
+        "Katni_MP"
+    ],
+    "Seoni_MP": [
+        "Chhindwara_MP",
+        "Balaghat_MP",
+        "Narsinghpur_MP",
+        "Mandla_MP",
+        "Jabalpur_MP",
+        "Nagpur_MH"
+    ],
+    "Nagpur_MH": [
+        "Chhindwara_MP",
+        "Bhandara_MH",
+        "Amravati_MH",
+        "Chandrapur_MH",
+        "Balaghat_MP",
+        "Seoni_MP",
+        "Wardha_MH"
+    ],
+    "Bhandara_MH": [
+        "Gondia_MH",
+        "Gadchiroli_MH",
+        "Balaghat_MP",
+        "Chandrapur_MH",
+        "Nagpur_MH"
+    ],
+    "Balangir_OR": [
+        "Subarnapur_OR",
+        "Kalahandi_OR",
+        "Boudh_OR",
+        "Nuapada_OR",
+        "Bargarh_OR",
+        "Kandhamal_OR"
+    ],
+    "Subarnapur_OR": [
+        "Balangir_OR",
+        "Bargarh_OR",
+        "Boudh_OR",
+        "Angul_OR",
+        "Sambalpur_OR"
+    ],
+    "Sambalpur_OR": [
+        "Sundargarh_OR",
+        "Subarnapur_OR",
+        "Jharsuguda_OR",
+        "Bargarh_OR",
+        "Angul_OR",
+        "Deogarh_OR"
+    ],
+    "Kalahandi_OR": [
+        "Rayagada_OR",
+        "Balangir_OR",
+        "Koraput_OR",
+        "Nuapada_OR",
+        "Kandhamal_OR",
+        "Nabarangapur_OR",
+        "Gariaband_CT"
+    ],
+    "Boudh_OR": [
+        "Subarnapur_OR",
+        "Balangir_OR",
+        "Nayagarh_OR",
+        "Kandhamal_OR",
+        "Angul_OR"
+    ],
+    "Kandhamal_OR": [
+        "Rayagada_OR",
+        "Kalahandi_OR",
+        "Nayagarh_OR",
+        "Gajapati_OR",
+        "Balangir_OR",
+        "Boudh_OR",
+        "Ganjam_OR"
+    ],
+    "Angul_OR": [
+        "Sundargarh_OR",
+        "Subarnapur_OR",
+        "Cuttack_OR",
+        "Nayagarh_OR",
+        "Dhenkanal_OR",
+        "Boudh_OR",
+        "Sambalpur_OR",
+        "Deogarh_OR",
+        "Kendujhar_OR"
+    ],
+    "Deogarh_OR": [
+        "Angul_OR",
+        "Sambalpur_OR",
+        "Sundargarh_OR"
+    ],
+    "Nayagarh_OR": [
+        "Cuttack_OR",
+        "Khordha_OR",
+        "Boudh_OR",
+        "Kandhamal_OR",
+        "Angul_OR",
+        "Ganjam_OR"
+    ],
+    "Khordha_OR": [
+        "Nayagarh_OR",
+        "Ganjam_OR",
+        "Puri_OR",
+        "Cuttack_OR"
+    ],
+    "Cuttack_OR": [
+        "Jagatsinghpur_OR",
+        "Puri_OR",
+        "Kendrapara_OR",
+        "Nayagarh_OR",
+        "Dhenkanal_OR",
+        "Khordha_OR",
+        "Angul_OR",
+        "Jajpur_OR"
+    ],
+    "Ganjam_OR": [
+        "Gajapati_OR",
+        "Nayagarh_OR",
+        "Puri_OR",
+        "Khordha_OR",
+        "Srikakulam_AP",
+        "Kandhamal_OR"
+    ],
+    "Puri_OR": [
+        "Jagatsinghpur_OR",
+        "Ganjam_OR",
+        "Khordha_OR",
+        "Cuttack_OR"
+    ],
+    "Dhenkanal_OR": [
+        "Kendujhar_OR",
+        "Jajpur_OR",
+        "Angul_OR",
+        "Cuttack_OR"
+    ],
+    "Jajpur_OR": [
+        "Bhadrak_OR",
+        "Cuttack_OR",
+        "Kendrapara_OR",
+        "Dhenkanal_OR",
+        "Kendujhar_OR"
+    ],
+    "Jagatsinghpur_OR": [
+        "Kendrapara_OR",
+        "Puri_OR",
+        "Cuttack_OR"
+    ],
+    "Kendrapara_OR": [
+        "Bhadrak_OR",
+        "Jajpur_OR",
+        "Jagatsinghpur_OR",
+        "Cuttack_OR"
+    ],
+    "Bhadrak_OR": [
+        "Kendrapara_OR",
+        "Jajpur_OR",
+        "Balasore_OR",
+        "Kendujhar_OR"
+    ],
+    "Rayagada_OR": [
+        "Kalahandi_OR",
+        "Gajapati_OR",
+        "Koraput_OR",
+        "Srikakulam_AP",
+        "Vizianagaram_AP",
+        "Kandhamal_OR"
+    ],
+    "Vizianagaram_AP": [
+        "Rayagada_OR",
+        "Koraput_OR",
+        "Srikakulam_AP",
+        "Visakhapatnam_AP"
+    ],
+    "Visakhapatnam_AP": [
+        "Malkangiri_OR",
+        "East Godavari_AP",
+        "Koraput_OR",
+        "Vizianagaram_AP"
+    ],
+    "East Godavari_AP": [
+        "Malkangiri_OR",
+        "Telangana_TN",
+        "Sukma_CT",
+        "Visakhapatnam_AP",
+        "West Godavari_AP"
+    ],
+    "Gajapati_OR": [
+        "Kandhamal_OR",
+        "Rayagada_OR",
+        "Ganjam_OR",
+        "Srikakulam_AP"
+    ],
+    "Srikakulam_AP": [
+        "Vizianagaram_AP",
+        "Rayagada_OR",
+        "Ganjam_OR",
+        "Gajapati_OR"
+    ],
+    "Ahmednagar_MH": [
+        "Osmanabad_MH",
+        "Mumbai_MH",
+        "Nashik_MH",
+        "Thane_MH",
+        "Solapur_MH",
+        "Beed_MH",
+        "Aurangabad_MH",
+        "Pune_MH"
+    ],
+    "Aurangabad_MH": [
+        "Ahmednagar_MH",
+        "Nashik_MH",
+        "Jalgaon_MH",
+        "Jalna_MH",
+        "Beed_MH"
+    ],
+    "Thane_MH": [
+        "Palghar_MH",
+        "Ahmednagar_MH",
+        "Mumbai_MH",
+        "Nashik_MH",
+        "Raigad_MH",
+        "Pune_MH"
+    ],
+    "Pune_MH": [
+        "Ahmednagar_MH",
+        "Mumbai_MH",
+        "Thane_MH",
+        "Solapur_MH",
+        "Raigad_MH",
+        "Satara_MH"
+    ],
+    "Beed_MH": [
+        "Osmanabad_MH",
+        "Ahmednagar_MH",
+        "Parbhani_MH",
+        "Latur_MH",
+        "Jalna_MH",
+        "Aurangabad_MH"
+    ],
+    "Solapur_MH": [
+        "Osmanabad_MH",
+        "Ahmednagar_MH",
+        "Sangli_MH",
+        "Kalaburagi_KA",
+        "Vijayapura_KA",
+        "Pune_MH",
+        "Satara_MH"
+    ],
+    "Osmanabad_MH": [
+        "Ahmednagar_MH",
+        "Solapur_MH",
+        "Kalaburagi_KA",
+        "Bidar_KA",
+        "Latur_MH",
+        "Beed_MH"
+    ],
+    "Satara_MH": [
+        "Sangli_MH",
+        "Mumbai_MH",
+        "Solapur_MH",
+        "Ratnagiri_MH",
+        "Raigad_MH",
+        "Pune_MH"
+    ],
+    "Raigad_MH": [
+        "Mumbai_MH",
+        "Thane_MH",
+        "Ratnagiri_MH",
+        "Pune_MH",
+        "Satara_MH"
+    ],
+    "Ratnagiri_MH": [
+        "Kolhapur_MH",
+        "Sindhudurg_MH",
+        "Sangli_MH",
+        "Mumbai_MH",
+        "Raigad_MH",
+        "Satara_MH"
+    ],
+    "Sangli_MH": [
+        "Kolhapur_MH",
+        "Mumbai_MH",
+        "Belagavi_KA",
+        "Solapur_MH",
+        "Ratnagiri_MH",
+        "Vijayapura_KA",
+        "Satara_MH"
+    ],
+    "Kolhapur_MH": [
+        "Sindhudurg_MH",
+        "Sangli_MH",
+        "Mumbai_MH",
+        "Belagavi_KA",
+        "Ratnagiri_MH"
+    ],
+    "Sindhudurg_MH": [
+        "Mumbai_MH",
+        "Belagavi_KA",
+        "Goa_GA",
+        "Ratnagiri_MH",
+        "Kolhapur_MH"
+    ],
+    "Chandrapur_MH": [
+        "Gadchiroli_MH",
+        "Bhandara_MH",
+        "Telangana_TN",
+        "Nagpur_MH",
+        "Yavatmal_MH",
+        "Wardha_MH"
+    ],
+    "Telangana_TN": [
+        "Gadchiroli_MH",
+        "Yadgir_KA",
+        "Bijapur_CT",
+        "Chandrapur_MH",
+        "Telangana_TN",
+        "Sukma_CT",
+        "Krishna_AP",
+        "Guntur_AP",
+        "Prakasam_AP",
+        "Kalaburagi_KA",
+        "East Godavari_AP",
+        "Bidar_KA",
+        "Manipur_MN",
+        "West Godavari_AP",
+        "Nanded_MH",
+        "Kurnool_AP",
+        "Yavatmal_MH",
+        "Raichur_KA"
+    ],
+    "Manipur_MN": [
+        "Assam_AS",
+        "Gadchiroli_MH",
+        "Bankura_WB",
+        "Telangana_TN",
+        "Aizawl_MZ",
+        "Champhai_MZ",
+        "Bijapur_CT",
+        "Manipur_MN",
+        "Phek_NL",
+        "Peren_NL",
+        "Kohima_NL"
+    ],
+    "Wardha_MH": [
+        "Nagpur_MH",
+        "Amravati_MH",
+        "Chandrapur_MH",
+        "Yavatmal_MH"
+    ],
+    "Yavatmal_MH": [
+        "Amravati_MH",
+        "Chandrapur_MH",
+        "Telangana_TN",
+        "Hingoli_MH",
+        "Washim_MH",
+        "Nanded_MH",
+        "Wardha_MH"
+    ],
+    "Washim_MH": [
+        "Amravati_MH",
+        "Parbhani_MH",
+        "Hingoli_MH",
+        "Yavatmal_MH",
+        "Buldhana_MH",
+        "Akola_MH"
+    ],
+    "Nanded_MH": [
+        "Parbhani_MH",
+        "Telangana_TN",
+        "Hingoli_MH",
+        "Bidar_KA",
+        "Latur_MH",
+        "Yavatmal_MH"
+    ],
+    "Hingoli_MH": [
+        "Parbhani_MH",
+        "Nanded_MH",
+        "Washim_MH",
+        "Yavatmal_MH"
+    ],
+    "Akola_MH": [
+        "Amravati_MH",
+        "Washim_MH",
+        "Buldhana_MH"
+    ],
+    "Parbhani_MH": [
+        "Hingoli_MH",
+        "Washim_MH",
+        "Buldhana_MH",
+        "Latur_MH",
+        "Jalna_MH",
+        "Beed_MH",
+        "Nanded_MH"
+    ],
+    "Buldhana_MH": [
+        "Burhanpur_MP",
+        "Amravati_MH",
+        "Parbhani_MH",
+        "Washim_MH",
+        "Jalgaon_MH",
+        "Jalna_MH",
+        "Akola_MH"
+    ],
+    "Latur_MH": [
+        "Osmanabad_MH",
+        "Parbhani_MH",
+        "Bidar_KA",
+        "Beed_MH",
+        "Nanded_MH"
+    ],
+    "Bidar_KA": [
+        "Osmanabad_MH",
+        "Telangana_TN",
+        "Kalaburagi_KA",
+        "Latur_MH",
+        "Nanded_MH"
+    ],
+    "Jalna_MH": [
+        "Parbhani_MH",
+        "Buldhana_MH",
+        "Jalgaon_MH",
+        "Beed_MH",
+        "Aurangabad_MH"
+    ],
+    "Belagavi_KA": [
+        "Kolhapur_MH",
+        "Sindhudurg_MH",
+        "Sangli_MH",
+        "Mumbai_MH",
+        "Gadag_KA",
+        "Goa_GA",
+        "Bagalkote_KA",
+        "Vijayapura_KA",
+        "Dharwad_KA",
+        "Uttara Kannada_KA"
+    ],
+    "Vijayapura_KA": [
+        "Yadgir_KA",
+        "Sangli_MH",
+        "Belagavi_KA",
+        "Solapur_MH",
+        "Kalaburagi_KA",
+        "Bagalkote_KA",
+        "Raichur_KA"
+    ],
+    "Goa_GA": [
+        "Sindhudurg_MH",
+        "Mumbai_MH",
+        "Belagavi_KA",
+        "Goa_GA",
+        "Uttara Kannada_KA"
+    ],
+    "Kalaburagi_KA": [
+        "Osmanabad_MH",
+        "Yadgir_KA",
+        "Telangana_TN",
+        "Solapur_MH",
+        "Vijayapura_KA",
+        "Bidar_KA"
+    ],
+    "Uttara Kannada_KA": [
+        "Udupi_KA",
+        "Shivamogga_KA",
+        "Belagavi_KA",
+        "Haveri_KA",
+        "Goa_GA",
+        "Dharwad_KA"
+    ],
+    "Alappuzha_KL": [
+        "Kottayam_KL",
+        "Pathanamthitta_KL",
+        "Ernakulam_KL",
+        "Kollam_KL"
+    ],
+    "Kozhikode_KL": [
+        "Malappuram_KL",
+        "Kannur_KL",
+        "Wayanad_KL",
+        "Mahe_PY"
+    ],
+    "Kannur_KL": [
+        "Kodagu_KA",
+        "Kasaragod_KL",
+        "Wayanad_KL",
+        "Mahe_PY",
+        "Kozhikode_KL"
+    ],
+    "Mysuru_KA": [
+        "Mandya_KA",
+        "Hassan_KA",
+        "Kodagu_KA",
+        "Chamarajanagara_KA",
+        "Wayanad_KL"
+    ],
+    "Kodagu_KA": [
+        "Hassan_KA",
+        "Kannur_KL",
+        "Kasaragod_KL",
+        "Wayanad_KL",
+        "Mysuru_KA",
+        "Dakshina Kannada_KA"
+    ],
+    "Kasaragod_KL": [
+        "Kodagu_KA",
+        "Kannur_KL",
+        "Dakshina Kannada_KA"
+    ],
+    "Mahe_PY": [
+        "Kannur_KL",
+        "Kozhikode_KL"
+    ],
+    "Dakshina Kannada_KA": [
+        "Hassan_KA",
+        "Kodagu_KA",
+        "Kasaragod_KL",
+        "Chikkamagaluru_KA",
+        "Udupi_KA"
+    ],
+    "Mandya_KA": [
+        "Hassan_KA",
+        "Tumakuru_KA",
+        "Chamarajanagara_KA",
+        "Mysuru_KA",
+        "Ramanagara_KA"
+    ],
+    "Ramanagara_KA": [
+        "Mandya_KA",
+        "Tumakuru_KA",
+        "Krishnagiri_TN",
+        "Chamarajanagara_KA",
+        "Bengaluru Rural_KA",
+        "Bengaluru Urban_KA"
+    ],
+    "Hassan_KA": [
+        "Mandya_KA",
+        "Tumakuru_KA",
+        "Kodagu_KA",
+        "Chikkamagaluru_KA",
+        "Mysuru_KA",
+        "Dakshina Kannada_KA"
+    ],
+    "Udupi_KA": [
+        "Chikkamagaluru_KA",
+        "Shivamogga_KA",
+        "Dakshina Kannada_KA",
+        "Uttara Kannada_KA"
+    ],
+    "Chikkamagaluru_KA": [
+        "Shivamogga_KA",
+        "Hassan_KA",
+        "Tumakuru_KA",
+        "Chitradurga_KA",
+        "Davanagere_KA",
+        "Udupi_KA",
+        "Dakshina Kannada_KA"
+    ],
+    "Shivamogga_KA": [
+        "Haveri_KA",
+        "Chikkamagaluru_KA",
+        "Davanagere_KA",
+        "Udupi_KA",
+        "Uttara Kannada_KA"
+    ],
+    "Bengaluru Rural_KA": [
+        "Chikkaballapura_KA",
+        "Tumakuru_KA",
+        "Krishnagiri_TN",
+        "Bengaluru Urban_KA",
+        "Ramanagara_KA",
+        "Kolar_KA"
+    ],
+    "Bengaluru Urban_KA": [
+        "Bengaluru Rural_KA",
+        "Ramanagara_KA",
+        "Krishnagiri_TN"
+    ],
+    "Kolar_KA": [
+        "Chittoor_AP",
+        "Chikkaballapura_KA",
+        "Bengaluru Rural_KA",
+        "Krishnagiri_TN"
+    ],
+    "Tumakuru_KA": [
+        "Chikkaballapura_KA",
+        "Mandya_KA",
+        "Hassan_KA",
+        "Chitradurga_KA",
+        "Chikkamagaluru_KA",
+        "Bengaluru Rural_KA",
+        "Anantapur_AP",
+        "Ramanagara_KA"
+    ],
+    "Chikkaballapura_KA": [
+        "Chittoor_AP",
+        "Tumakuru_KA",
+        "Bengaluru Rural_KA",
+        "Anantapur_AP",
+        "Kolar_KA"
+    ],
+    "Chitradurga_KA": [
+        "Tumakuru_KA",
+        "Chikkamagaluru_KA",
+        "Davanagere_KA",
+        "Ballari_KA",
+        "Anantapur_AP"
+    ],
+    "Davanagere_KA": [
+        "Shivamogga_KA",
+        "Chitradurga_KA",
+        "Haveri_KA",
+        "Chikkamagaluru_KA",
+        "Ballari_KA"
+    ],
+    "Ballari_KA": [
+        "Chitradurga_KA",
+        "Koppal_KA",
+        "Haveri_KA",
+        "Gadag_KA",
+        "Davanagere_KA",
+        "Anantapur_AP",
+        "Kurnool_AP",
+        "Raichur_KA"
+    ],
+    "Anantapur_AP": [
+        "Chittoor_AP",
+        "Chikkaballapura_KA",
+        "Tumakuru_KA",
+        "Chitradurga_KA",
+        "Y.S.R. Kadapa_AP",
+        "Ballari_KA",
+        "Kurnool_AP"
+    ],
+    "Bagalkote_KA": [
+        "Belagavi_KA",
+        "Koppal_KA",
+        "Gadag_KA",
+        "Vijayapura_KA",
+        "Raichur_KA"
+    ],
+    "Dharwad_KA": [
+        "Gadag_KA",
+        "Belagavi_KA",
+        "Haveri_KA",
+        "Uttara Kannada_KA"
+    ],
+    "Gadag_KA": [
+        "Belagavi_KA",
+        "Koppal_KA",
+        "Haveri_KA",
+        "Bagalkote_KA",
+        "Ballari_KA",
+        "Dharwad_KA"
+    ],
+    "Haveri_KA": [
+        "Shivamogga_KA",
+        "Gadag_KA",
+        "Davanagere_KA",
+        "Ballari_KA",
+        "Dharwad_KA",
+        "Uttara Kannada_KA"
+    ],
+    "Koppal_KA": [
+        "Gadag_KA",
+        "Raichur_KA",
+        "Bagalkote_KA",
+        "Ballari_KA"
+    ],
+    "Raichur_KA": [
+        "Yadgir_KA",
+        "Telangana_TN",
+        "Koppal_KA",
+        "Bagalkote_KA",
+        "Ballari_KA",
+        "Vijayapura_KA",
+        "Kurnool_AP"
+    ],
+    "Yadgir_KA": [
+        "Kalaburagi_KA",
+        "Raichur_KA",
+        "Vijayapura_KA",
+        "Telangana_TN"
+    ],
+    "Kurnool_AP": [
+        "Telangana_TN",
+        "Prakasam_AP",
+        "Y.S.R. Kadapa_AP",
+        "Ballari_KA",
+        "Anantapur_AP",
+        "Raichur_KA"
+    ],
+    "West Godavari_AP": [
+        "Telangana_TN",
+        "East Godavari_AP",
+        "Krishna_AP"
+    ],
+    "Krishna_AP": [
+        "Telangana_TN",
+        "West Godavari_AP",
+        "Guntur_AP"
+    ],
+    "Guntur_AP": [
+        "Prakasam_AP",
+        "Telangana_TN",
+        "Krishna_AP"
+    ],
+    "Prakasam_AP": [
+        "Telangana_TN",
+        "Guntur_AP",
+        "S.P.S. Nellore_AP",
+        "Y.S.R. Kadapa_AP",
+        "Kurnool_AP"
+    ],
+    "Y.S.R. Kadapa_AP": [
+        "Chittoor_AP",
+        "S.P.S. Nellore_AP",
+        "Prakasam_AP",
+        "Anantapur_AP",
+        "Kurnool_AP"
+    ],
+    "West Garo Hills_ML": [
+        "Assam_AS",
+        "South West Garo Hills_ML",
+        "North Garo Hills_ML",
+        "South Garo Hills_ML",
+        "East Garo Hills_ML"
+    ],
+    "Dimapur_NL": [
+        "Assam_AS",
+        "Peren_NL",
+        "Kohima_NL"
+    ],
+    "Peren_NL": [
+        "Manipur_MN",
+        "Dimapur_NL",
+        "Assam_AS",
+        "Kohima_NL"
+    ],
+    "West Jaintia Hills_ML": [
+        "Assam_AS",
+        "East Jaintia Hills_ML",
+        "Ribhoi_ML",
+        "East Khasi Hills_ML"
+    ],
+    "East Jaintia Hills_ML": [
+        "Assam_AS",
+        "West Jaintia Hills_ML"
+    ],
+    "Aizawl_MZ": [
+        "Assam_AS",
+        "Kolasib_MZ",
+        "Mamit_MZ",
+        "Champhai_MZ",
+        "Manipur_MN",
+        "Lunglei_MZ",
+        "Serchhip_MZ"
+    ],
+    "Kolasib_MZ": [
+        "Assam_AS",
+        "Mamit_MZ",
+        "Aizawl_MZ"
+    ],
+    "Mamit_MZ": [
+        "Assam_AS",
+        "Kolasib_MZ",
+        "Aizawl_MZ",
+        "North Tripura_TR",
+        "Lunglei_MZ"
+    ],
+    "North Tripura_TR": [
+        "Assam_AS",
+        "Mamit_MZ",
+        "Unokoti_TR",
+        "Dhalai_TR"
+    ],
+    "West Kameng_AR": [
+        "Assam_AS",
+        "Pakke Kessang_AR",
+        "Tawang_AR",
+        "East Kameng_AR"
+    ],
+    "Pakke Kessang_AR": [
+        "Assam_AS",
+        "West Kameng_AR",
+        "East Kameng_AR",
+        "Papum Pare_AR"
+    ],
+    "Kohima_NL": [
+        "Assam_AS",
+        "Wokha_NL",
+        "Zunheboto_NL",
+        "Dimapur_NL",
+        "Manipur_MN",
+        "Phek_NL",
+        "Peren_NL"
+    ],
+    "Wokha_NL": [
+        "Assam_AS",
+        "Zunheboto_NL",
+        "Mokokchung_NL",
+        "Kohima_NL"
+    ],
+    "Mokokchung_NL": [
+        "Assam_AS",
+        "Longleng_NL",
+        "Zunheboto_NL",
+        "Wokha_NL",
+        "Tuensang_NL"
+    ],
+    "Papum Pare_AR": [
+        "Assam_AS",
+        "Kurung Kumey_AR",
+        "Lower Subansiri_AR",
+        "Pakke Kessang_AR",
+        "Kra Daadi_AR",
+        "Lakhimpur Kheri_UP",
+        "East Kameng_AR",
+        "Kamle_AR"
+    ],
+    "Kamle_AR": [
+        "Assam_AS",
+        "Upper Subansiri_AR",
+        "Papum Pare_AR",
+        "Lower Subansiri_AR",
+        "Lower Siang_AR",
+        "Kra Daadi_AR",
+        "Lakhimpur Kheri_UP"
+    ],
+    "East Siang_AR": [
+        "Assam_AS",
+        "Lower Dibang Valley_AR",
+        "Siang_AR",
+        "Upper Siang_AR",
+        "Lower Siang_AR"
+    ],
+    "Lower Dibang Valley_AR": [
+        "Assam_AS",
+        "Lohit_AR",
+        "Upper Dibang Valley_AR",
+        "Upper Siang_AR",
+        "East Siang_AR"
+    ],
+    "Lower Siang_AR": [
+        "Assam_AS",
+        "Upper Subansiri_AR",
+        "Siang_AR",
+        "West Siang_AR",
+        "East Siang_AR",
+        "Kamle_AR",
+        "Lepa Rada_AR"
+    ],
+    "Changlang_AR": [
+        "Assam_AS",
+        "Lohit_AR",
+        "Namsai_AR",
+        "Anjaw_AR",
+        "Tirap_AR"
+    ],
+    "Lohit_AR": [
+        "Assam_AS",
+        "Namsai_AR",
+        "Anjaw_AR",
+        "Lower Dibang Valley_AR",
+        "Changlang_AR"
+    ],
+    "Tirap_AR": [
+        "Assam_AS",
+        "Changlang_AR",
+        "Longding_AR"
+    ],
+    "Namsai_AR": [
+        "Changlang_AR",
+        "Lohit_AR",
+        "Assam_AS"
+    ],
+    "Longding_AR": [
+        "Assam_AS",
+        "Mon_NL",
+        "Tirap_AR"
+    ],
+    "Mon_NL": [
+        "Assam_AS",
+        "Longleng_NL",
+        "Tuensang_NL",
+        "Longding_AR"
+    ],
+    "Longleng_NL": [
+        "Assam_AS",
+        "Tuensang_NL",
+        "Mon_NL",
+        "Mokokchung_NL"
+    ],
+    "Dhalai_TR": [
+        "North Tripura_TR",
+        "Unokoti_TR",
+        "Gomati_TR",
+        "Khowai_TR"
+    ],
+    "Gomati_TR": [
+        "South Tripura_TR",
+        "Sipahijala_TR",
+        "Dhalai_TR",
+        "Khowai_TR"
+    ],
+    "Khowai_TR": [
+        "Sipahijala_TR",
+        "Gomati_TR",
+        "Dhalai_TR",
+        "West Tripura_TR"
+    ],
+    "Unokoti_TR": [
+        "North Tripura_TR",
+        "Dhalai_TR"
+    ],
+    "West Tripura_TR": [
+        "Sipahijala_TR",
+        "Khowai_TR"
+    ],
+    "Sipahijala_TR": [
+        "South Tripura_TR",
+        "Gomati_TR",
+        "Khowai_TR",
+        "West Tripura_TR"
+    ],
+    "South Tripura_TR": [
+        "Sipahijala_TR",
+        "Gomati_TR"
+    ],
+    "East Kameng_AR": [
+        "Papum Pare_AR",
+        "Kurung Kumey_AR",
+        "Tawang_AR",
+        "Pakke Kessang_AR",
+        "West Kameng_AR"
+    ],
+    "Kurung Kumey_AR": [
+        "Upper Subansiri_AR",
+        "Kra Daadi_AR",
+        "East Kameng_AR",
+        "Papum Pare_AR"
+    ],
+    "Tawang_AR": [
+        "East Kameng_AR",
+        "West Kameng_AR"
+    ],
+    "Lower Subansiri_AR": [
+        "Kamle_AR",
+        "Kra Daadi_AR",
+        "Papum Pare_AR"
+    ],
+    "Kra Daadi_AR": [
+        "Upper Subansiri_AR",
+        "Papum Pare_AR",
+        "Kurung Kumey_AR",
+        "Lower Subansiri_AR",
+        "Kamle_AR"
+    ],
+    "Upper Subansiri_AR": [
+        "Shi Yomi_AR",
+        "Kurung Kumey_AR",
+        "Lower Siang_AR",
+        "West Siang_AR",
+        "Kra Daadi_AR",
+        "Kamle_AR",
+        "Lepa Rada_AR"
+    ],
+    "West Siang_AR": [
+        "Shi Yomi_AR",
+        "Upper Subansiri_AR",
+        "Siang_AR",
+        "Lower Siang_AR",
+        "Lepa Rada_AR"
+    ],
+    "Shi Yomi_AR": [
+        "Siang_AR",
+        "West Siang_AR",
+        "Upper Subansiri_AR",
+        "Upper Siang_AR"
+    ],
+    "Lepa Rada_AR": [
+        "West Siang_AR",
+        "Upper Subansiri_AR",
+        "Lower Siang_AR"
+    ],
+    "Siang_AR": [
+        "Shi Yomi_AR",
+        "Upper Siang_AR",
+        "Lower Siang_AR",
+        "West Siang_AR",
+        "East Siang_AR"
+    ],
+    "Upper Siang_AR": [
+        "Shi Yomi_AR",
+        "Lower Dibang Valley_AR",
+        "Siang_AR",
+        "Upper Dibang Valley_AR",
+        "East Siang_AR"
+    ],
+    "Upper Dibang Valley_AR": [
+        "Lower Dibang Valley_AR",
+        "Upper Siang_AR"
+    ],
+    "Anjaw_AR": [
+        "Changlang_AR",
+        "Lohit_AR"
+    ],
+    "East Garo Hills_ML": [
+        "South Garo Hills_ML",
+        "North Garo Hills_ML",
+        "West Garo Hills_ML",
+        "West Khasi Hills_ML"
+    ],
+    "South Garo Hills_ML": [
+        "East Garo Hills_ML",
+        "South West Khasi Hills_ML",
+        "West Garo Hills_ML",
+        "West Khasi Hills_ML"
+    ],
+    "South West Khasi Hills_ML": [
+        "South Garo Hills_ML",
+        "East Khasi Hills_ML",
+        "West Khasi Hills_ML"
+    ],
+    "South West Garo Hills_ML": [
+        "Assam_AS",
+        "West Garo Hills_ML"
+    ],
+    "East Khasi Hills_ML": [
+        "South West Khasi Hills_ML",
+        "West Jaintia Hills_ML",
+        "Ribhoi_ML",
+        "West Khasi Hills_ML"
+    ],
+    "Phek_NL": [
+        "Manipur_MN",
+        "Zunheboto_NL",
+        "Kiphire_NL",
+        "Kohima_NL"
+    ],
+    "Zunheboto_NL": [
+        "Wokha_NL",
+        "Tuensang_NL",
+        "Kiphire_NL",
+        "Phek_NL",
+        "Mokokchung_NL",
+        "Kohima_NL"
+    ],
+    "Kiphire_NL": [
+        "Phek_NL",
+        "Tuensang_NL",
+        "Zunheboto_NL"
+    ],
+    "Tuensang_NL": [
+        "Longleng_NL",
+        "Zunheboto_NL",
+        "Tuensang_NL",
+        "Kiphire_NL",
+        "Mon_NL",
+        "Mokokchung_NL"
+    ],
+    "Lawngtlai_MZ": [
+        "Lunglei_MZ",
+        "Saiha_MZ"
+    ],
+    "Lunglei_MZ": [
+        "Mamit_MZ",
+        "Serchhip_MZ",
+        "Aizawl_MZ",
+        "Lawngtlai_MZ"
+    ],
+    "Saiha_MZ": [
+        "Lawngtlai_MZ"
+    ],
+    "Serchhip_MZ": [
+        "Lunglei_MZ",
+        "Aizawl_MZ",
+        "Champhai_MZ"
+    ],
+    "Champhai_MZ": [
+        "Manipur_MN",
+        "Serchhip_MZ",
+        "Aizawl_MZ"
+    ],
+    "South 24 Parganas_WB": [
+        "North 24 Parganas_WB",
+        "Purba Medinipur_WB",
+        "Howrah_WB",
+        "Kolkata_WB"
+    ],
+    "Gir Somnath_GJ": [
+        "Diu_DN",
+        "Junagadh_GJ",
+        "Amreli_GJ"
+    ],
+    "Diu_DN": [
+        "Gir Somnath_GJ"
+    ],
+    "Devbhumi Dwarka_GJ": [
+        "Porbandar_GJ",
+        "Jamnagar_GJ"
+    ],
+    "Kolkata_WB": [
+        "North 24 Parganas_WB",
+        "Howrah_WB",
+        "South 24 Parganas_WB"
+    ]
+}

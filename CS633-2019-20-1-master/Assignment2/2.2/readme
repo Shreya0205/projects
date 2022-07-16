@@ -1,0 +1,46 @@
+CS633 Parallel Computing (Assignment 2)
+
+The objective of Assignment 2.2 is to implement broadcast using combination of scatter and allgather(ring) and to compare performances between MPI_bcast and New_Bcast.
+
+CONTENTS
+1. hostfile.sh : Bash script to create a file of hosts(hostfile.txt) which are up or live at the time of execution ( hostfile.sh should be given executable permission).
+2. run.sh : Bash script to automate from executing hostfile.sh to execute src.c file to plot boxplots for plotting times for both broadcasts(should be given executable permission).
+3. src.c : Main Source code to implement new broadcast and to calculate time required for both broadcasts.
+4. plot.py : Python file to plot boxplots (MBps on y-axis and MB on x-axis).
+5. plot-D.jpg : Sample plot showing the nature of the bandwidths for sending D databytes using new_bcast and old_bcast having different ppn and different process sizes.
+
+PREREQUISITES
+MPICH
+Python3
+Matplotlib
+Numpy
+Seaborn
+Pandas
+
+CODE DESCRIPTION
+1. run.sh :
+First, it creates a hostfile and then it runs through a nested loops to execute the src.c for different times , for different datasizes, for different ppn and for different number of processes. It will execute python file for plotting.
+
+2. src.c
+-> It takes 2 arguments, one for datasize and another for ppn(used only for subgrouping in csv file for plotting). Array of type float(size 4 bytes) is used for data transfer. 
+-> MPI_Type_continuous is used to ease the transfer of continuous data of size (datasize/no of processes) in New_Bcast.
+-> MPI_Scatter first send data of size (D/size) from array (arr) to each of the process from process of rank 0 as root. The received data is stored in array(recvarr).
+As MPI_Scatter scatters the data to initial memory locations of receiving array, the data received is copied to respective locations using memcpy function. For ex: datablock0 of size D/size is at process 0 at index 0 , datablock1 is with process 1 at index data/size, datablock2 is with process 2 starting from index 2*data/size, and so on. Datablock'n' is with process n at index n*data/size in the receiving array. This makes indexing easier in all gather algo.
+-> Ring algorithm is used to implement all gather which loops from 0 to size-1. Process with rank 'r' always sends data to its next process with rank 'r+1' and always receives from process with rank 'r-1'. 
+-> Data received in each iteration at each process needs to be stored at respective indexes and also the data to be send is the one that the process receives from previous iteration is also to be indexed to send to another process. The data receives at a process is in counter clockwise manner means process first receives data of process 0, and then of process of rank size-1, and then of rank size-2, and so on.
+-> Non-blocking communications is used to send and recv data at respective positions.
+-> Lastly, MPI_Reduce is used to get the max time of all gather from every process.
+
+3. plot.py :
+It plots 6 boxplots in a single plot (grouped by new_bcast and old_bcast) for different ppn and different datasizes.
+
+OBSERVATIONS
+1. As datasizes increses, bandwidths are also increasing.
+2. New_Bcast bandwidth is coming to be larger than MPI_Bcast.
+3. With increase in number of processes, bandwidth of large data sizes tends to increase more because now load over a single host is less. 
+4. When number of process is 8 and ppn is also 8, then bandwidths are getting very large because there is no load for data transfer over network.
+5. For ppn=2, process size of 8 and 32 are having very less bandwidths may be because communication time demoniates in case of process size 32 and computation dominates when process size is 8. 
+
+
+
+

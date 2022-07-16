@@ -1,0 +1,64 @@
+
+
+
+for index, row in df.iterrows():
+    
+    path_ = row['path']
+    s = path_.split(';')[0]
+    d = row['target']
+    
+    if s in l:
+        s=mapping[s]
+        
+    if d in l:
+        d=mapping[d]
+        
+    if s in l2:
+        s_cat = ['C0001']
+    else:
+        s_idx = art_ID[s]
+        s_cat = art_category[s_idx]
+    
+    if d in l2:
+        d_cat = ['C0001']
+    else:
+        d_idx = art_ID[d]
+        d_cat = art_category[d_idx]
+    
+    scat = [cat_ID[idx] for idx in s_cat]
+    dcat = [cat_ID[idx] for idx in d_cat]
+    
+    s=[]
+    d=[]
+    
+    for sf in scat:
+        sf = sf.split('.')
+        temp=""
+        
+        for i in range(len(sf)):
+            
+            if i==0:
+                s.append('C0001')
+                temp="subject"
+            else:
+                temp=temp+"."+sf[i]
+                s.append(cat_ID[temp])
+                
+    
+    for sf in dcat:
+        sf = sf.split('.')
+        temp=""
+        for i in range(len(sf)):
+            if i==0:
+                d.append('C0001')
+                temp="subject"
+            else:
+                temp=temp+"."+sf[i]
+                d.append(cat_ID[temp])
+            
+    for cat_id in s:
+        for d_cat_id in d:
+            category_pair[cat_id][d_cat_id][0]=category_pair[cat_id][d_cat_id][0]+1
+            
+            
+        

@@ -1,0 +1,4 @@
+Format of traj files:
+
+Each traj on a separate line or separated by "broken"
+Each tuple within a trajectory: [nodeid, lat, long, timestamp]
